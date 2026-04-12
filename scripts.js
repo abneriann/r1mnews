@@ -1,3 +1,10 @@
+const hamburguer = document.getElementById('hamburguer')
+const navList = document.getElementById('nav-list')
+
+hamburguer.addEventListener('click', () => {
+    navList.classList.toggle('aberto')
+})
+
 const noticias = [
     {
         tag: "NBA",
