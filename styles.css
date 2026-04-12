@@ -224,3 +224,34 @@ body {
     text-align: center;
     padding: 20px;
 }
+
+.hamburguer {
+    display: none;
+    background: transparent;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+    color: black;
+    padding: 5px;
+}
+
+@media (max-width: 768px) {
+    
+    .lista-times {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .titulo-principal {
+        font-size: 2rem;
+    }
+
+    .subtitulo-principal {
+        font-size: 0.9rem;
+        padding: 0 1rem;
+    }
+
+    .noticias-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
