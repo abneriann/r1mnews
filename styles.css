@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    max-width: 100%;
 }
 
 body {
@@ -246,6 +247,10 @@ body {
 }
 
 @media (max-width: 768px) {
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
 
     .hamburguer {
         display: block;
@@ -255,7 +260,7 @@ body {
         display: none;
         flex-direction: column;
         align-items: center;
-        gap: 1rem;
+        gap: 0;
         padding: 1rem 0;
         width: 100%;
     }
@@ -265,12 +270,13 @@ body {
     }
 
     .navbar {
+        width: 100%;
         flex-direction: column;
         align-items: flex-start;
     }
 
     .titulo-principal {
-        font-size: 2.5rem;
+        font-size: 2.0rem;
     }
 
     .subtitulo-principal {
@@ -284,8 +290,22 @@ body {
         grid-template-columns: repeat(2, 1fr);
     }
 
+    .times h2{
+    font-size: 1.6rem;
+    }
+
+
+    .lista-times li {
+    padding: 0.6rem;
+    font-size: 1rem;
+}
+
     .noticias-grid {
         grid-template-columns: 1fr;
+    }
+
+    .rodape{
+        font-size: 1rem;
     }
 
 }
