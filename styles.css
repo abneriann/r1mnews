@@ -236,7 +236,20 @@ body {
 }
 
 @media (max-width: 768px) {
-    
+
+    @media (max-width: 768px) {
+
+    .subtitulo-principal {
+        font-size: 0.9rem;
+        padding: 0 1rem;
+        text-align: left;
+    }
+
+    .main {
+        padding: 1rem;
+    }
+
+}
     .lista-times {
         grid-template-columns: repeat(2, 1fr);
     }
