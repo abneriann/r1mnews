@@ -25,3 +25,30 @@ fetch('./noticias.json')
             `
         })
     })
+    
+let timeNBASelecionado = false
+
+document.querySelectorAll('.lista-times li').forEach(li => {
+    li.addEventListener('click', () => {
+        const timeEscolhido = li.textContent.trim()
+
+        if (!localStorage.getItem('timeNBA') && !timeNBASelecionado) {
+            localStorage.setItem('timeNBA', timeEscolhido)
+            timeNBASelecionado = true
+            alert(`Time NBA escolhido: ${timeEscolhido}`)
+        } else if (!localStorage.getItem('timeNBB')) {
+            localStorage.setItem('timeNBB', timeEscolhido)
+            alert(`Time NBB escolhido: ${timeEscolhido}`)
+            window.location.href = 'seu-time.html'
+        }
+    })
+})
+
+const linkSeuTime = document.getElementById('link-seu-time')
+
+linkSeuTime.addEventListener('click', (e) => {
+    if (localStorage.getItem('timeNBA') && localStorage.getItem('timeNBB')) {
+        e.preventDefault()
+        window.location.href = 'seu-time.html'
+    }
+})
