@@ -3,7 +3,7 @@ import json
 
 API_KEY = "0687886634164f7ab741ad31890fbbb6"
 
-url = f"https://newsapi.org/v2/everything?q=basquete OR NBA OR NBB&language=pt&sortBy=publishedAt&apiKey={API_KEY}"
+url = f"https://newsapi.org/v2/everything?q=basquete OR NBA OR NBB OR Corinthians OR Flamengo OR Lakers OR Celtics&language=pt&sortBy=publishedAt&pageSize=100&apiKey={API_KEY}"
 
 resposta = requests.get(url)
 

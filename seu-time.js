@@ -4,21 +4,26 @@ const timeNBB = localStorage.getItem('timeNBB')
 const titulo = document.getElementById('titulo-times')
 titulo.innerHTML = `🏀 ${timeNBA} & ${timeNBB}`
 
-const API_KEY = "0687886634164f7ab741ad31890fbbb6"
-const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(timeNBA)} OR "${encodeURIComponent(timeNBB)} basquete"&sortBy=publishedAt&apiKey=${API_KEY}`
-
-fetch(url)
+fetch('./noticias.json')
     .then(resposta => resposta.json())
     .then(dados => {
         const grid = document.getElementById('noticias-time')
 
-        if (dados.articles.length === 0) {
+        const filtradas = dados.articles.filter(noticia => 
+            noticia.title && 
+            noticia.title !== '[Removed]' &&
+            (noticia.title.includes(timeNBA) || 
+             noticia.title.includes(timeNBB) ||
+             noticia.description?.includes(timeNBA) ||
+             noticia.description?.includes(timeNBB))
+        )
+
+        if (filtradas.length === 0) {
             grid.innerHTML = '<p>Nenhuma notícia encontrada para seus times.</p>'
             return
         }
-            
 
-        dados.articles.slice(0, 21).forEach(noticia => {
+        filtradas.forEach(noticia => {
             grid.innerHTML += `
                 <article class="noticia-card">
                     <a href="${noticia.url}" target="_blank" class="noticia-link">

@@ -1,7 +1,930 @@
 {
     "status": "ok",
-    "totalResults": 323,
+    "totalResults": 2213,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Oscar Schmidt: veja fotos do início do \"Mão Santa\" pelas quadras do DF",
+            "description": "Astro do basquete mundial começou a carreira no Vizinhança, clube da capital, na década de 1970. Oscar morreu nesta sexta-feira, aos 68 anos",
+            "url": "https://www.metropoles.com/distrito-federal/oscar-schmidt-veja-fotos-do-inicio-do-mao-santa-pelas-quadras-do-df",
+            "urlToImage": "https://i.metroimg.com/VN0XVRTXrhCUSYrNprJpscqdWw8XKPtr1gTyWVb5Cmg/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-brasilia-2.jpg",
+            "publishedAt": "2026-04-17T22:16:22Z",
+            "content": "A perda da lenda do basquete brasileiro Oscar Schmidt, morto aos 68 anos, nesta sexta-feira (17/4), leva o morador do Distrito Federal a recordar que o “Mão Santa” também já foi um brasiliense. Foi n… [+5395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Ministro do Esporte diz que Oscar será homenageado em jogo da Seleçao",
+            "description": "À coluna, ministro do Esporte disse que seleção feminina prestará homenagem ao ex-jogador Oscar Schmidt",
+            "url": "https://www.metropoles.com/colunas/milena-teixeira/ministro-do-esporte-diz-oscar-sera-homenagado-em-jogo-da-selecao",
+            "urlToImage": "https://i.metroimg.com/BZ5KfFxkmn08YgQFtj-JfsBXP-ysCyb-991ojJTh4Uw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/fs-1748.jpeg",
+            "publishedAt": "2026-04-17T22:16:06Z",
+            "content": "O ministro do Esporte, Paulo Henrique Cordeiro, disse à coluna que o ex-jogador Oscar Schmidt será homenageado neste sábado (18/4), durante o jogo da seleção feminina em Cuiabá (MT).\r\nLenda do basque… [+1167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ig.com.br"
+            },
+            "author": "Victor Meira, Victor Meira",
+            "title": "Oscar Schmidt era ídolo de Kobe Bryant, astro da NBA",
+            "description": "Lenda do basquete brasileiro faleceu nesta sexta-feira (17), aos 68 anos de idade, em Santana de Parnaíba, na Região Metropolitana de São Paulo",
+            "url": "https://esporte.ig.com.br/futebol/2026-04-17/oscar-schmidt-idolo-kobe-bryant.html",
+            "urlToImage": "https://i0.statig.com.br/bancodeimagens/16/ts/hy/16tshysqwws2botp9jhplswqu.jpg",
+            "publishedAt": "2026-04-17T22:12:34Z",
+            "content": "Faleceu Oscar Schmidt, lenda do basquete brasileiro, na tarde desta sexta-feira (17), em Santana de Parnaíba, na Região Metropolitana de São Paulo. A informação foi confirmada pela assessoria do ex-j… [+2209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Contigo",
+            "title": "Tadeu Schmidt quebra o silêncio sobre a morte do irmão, Oscar",
+            "description": "Ídolo conhecido como \"Mão Santa\" enfrentava um tumor cerebral desde 2011 e recebeu homenagem emocionante do apresentador do BBB",
+            "url": "https://www.terra.com.br/diversao/gente/tadeu-schmidt-quebra-o-silencio-sobre-a-morte-do-irmao-oscar,af098df172307a5ccc5fb9432bfb2b00rzrvjrdn.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/394817493-whatsapp-image-2026-04-17-at-185043.jpg",
+            "publishedAt": "2026-04-17T22:08:50Z",
+            "content": "Tadeu Schmidt usou as redes sociais nesta sexta-feira (17) para prestar uma homenagem ao irmão, Oscar Schmidt, um dos maiores nomes da história do basquete brasileiro. O ex-atleta morreu aos 68 anos,… [+1834 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Portal Terra",
+            "title": "BBB 26: Tadeu Schmidt apresentará o programa após morte de Oscar e fará homenagem ao irmão",
+            "description": "Tadeu Schmidt perdeu o irmão mais velho, Oscar Schmidt, nesta sexta-feira, 17. A Globo confirmou ...",
+            "url": "https://www.terra.com.br/diversao/tv/reality-shows/bbb-26-tadeu-schmidt-apresentara-o-programa-apos-morte-de-oscar-e-fara-homenagem-ao-irmao,f71c30cbf33caaf41b27921016cb3542gbpzcc6u.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/design-sem-nome-(96)-1ibebqyja1k6a.png",
+            "publishedAt": "2026-04-17T22:08:00Z",
+            "content": "Tadeu Schmidt perdeu o irmão mais velho, Oscar Schmidt, nesta sexta-feira, 17. A Globo confirmou ao Terra que, mesmo com a morte do irmão, o apresentador comandará a edição do BBB 26 desta noite e fa… [+2846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Observador.pt"
+            },
+            "author": "Mariana Lima Cunha",
+            "title": "Morreu Oscar Schmidt, o \"mão santa\", lenda do basquetebol",
+            "description": "Foi o único atleta a superar os mil pontos nos Jogos Olímpicos, tendo participado em cinco edições. Recusou jogar na NBA porque preferia vestir a camisola 14 na seleção.",
+            "url": "https://observador.pt/2026/04/17/morreu-oscar-schmidt-o-mao-santa-nome-lendario-do-basquetebol-brasileiro-e-mundial/",
+            "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4000%3A2244%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F17224245%2Fgettyimages-1187789630.jpg?layer=obstop:T",
+            "publishedAt": "2026-04-17T22:06:06Z",
+            "content": "Morreu esta sexta-feira Oscar Schmidt, o “mão santa”, nome lendário do basquetebol brasileiro e mundial. Depois de lutar com um cancro no cérebro durante quinze anos, o antigo atleta sentiu-se mal e … [+5032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Estadão Conteúdo",
+            "title": "Ídolo de Kobe Bryant e amigo de Magic Johnson: as falas de lendas da NBA sobre Oscar Schmidt",
+            "description": "'Mão Santa', que morreu nesta sexta-feira, faz parte do Hall da Fama da NBA, mesmo sem ter jogado nos EUA",
+            "url": "https://www.terra.com.br/esportes/basquete/idolo-de-kobe-bryant-e-amigo-de-magic-johnson-relembre-falas-de-lendas-da-nba-sobre-oscar-schmidt,420098c3566fe24815e95617f766c9b6vzp6qf80.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/1692410818-nc554js5sfn4lfiuiijr245efu.jpg",
+            "publishedAt": "2026-04-17T22:05:50Z",
+            "content": "Oscar Schmidt, que morreu nesta sexta-feira, 17, em decorrência de uma parada cardiorrespiratória , se tornou uma lenda mundial do basquete. Os feitos do maior jogador brasileiro da modalidade se esp… [+2864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Portal Terra",
+            "title": "Oscar Schmidt recebeu homenagem do COB e exaltação do filho dias antes de morrer: 'Último capítulo'",
+            "description": "Oscar Schmidt foi homenageado em vida pelo Comitê Olímpico Brasileiro (COB), ao ser introduzido ...",
+            "url": "https://www.terra.com.br/esportes/basquete/oscar-schmidt-recebeu-homenagem-do-cob-e-exaltacao-do-filho-dias-antes-de-morrer-ultimo-capitulo,0763777ec4bf7f8048de11bb3c0751abgzymsj49.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/hall-da-fama-2026_al_20260408-116-s0ugwpvrguhy.jpg",
+            "publishedAt": "2026-04-17T22:05:09Z",
+            "content": "Oscar Schmidt foi homenageado em vida pelo Comitê Olímpico Brasileiro (COB), ao ser introduzido no Hall da Fama da entidade, pouco mais de uma semana antes de morrer, aos 68 anos, nesta sexta-feira, … [+3085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "SBT faz homenagem e reexibe entrevista de Oscar Schmidt no The Noite",
+            "description": "O SBT vai reexibir nesta sexta-feira (17/4) uma entrevista concedida pelo ex-atleta Oscar Schmidt a Danilo Gentili em 2016",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/sbt-faz-homenagem-e-reexibe-entrevista-de-oscar-schmidt-no-the-noite",
+            "urlToImage": "https://i.metroimg.com/F_1fljzskRKmfCzwYYirjnwnAvGl-JQlW8oC3kj-8BA/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-e-danilo-gentili.jpg",
+            "publishedAt": "2026-04-17T22:04:00Z",
+            "content": "O SBT vai fazer uma homenagem ao ex-jogador de basquete Oscar Schmidt, que morreu aos 68 anos. A emissora vai reexibir nesta sexta-feira (17/4) uma entrevista concedida pelo ex-atleta ao humorista e … [+1852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Simone Blanes",
+            "title": "O dia em que Oscar Schmidt flertou com a moda",
+            "description": "Lenda do basquete, que morreu hoje, também deixou sua marca no streetwear ao revisitar a estética retrô em campanha memorável",
+            "url": "https://veja.abril.com.br/coluna/vitrine/o-dia-em-que-oscar-schmidt-flertou-com-a-moda/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/baw-clothing-gkpb-banner-2-696x392.jpg.webp?resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T22:00:55Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90\r\nOscar Schmidt e Hortência Marcari: lendas do basquete em campanha de moda (Divulgação/Divulgação)\r\nContinua após publicidade\r\n<ul><l… [+1802 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ig.com.br"
+            },
+            "author": "Fagner Vilela, Fagner Vilela",
+            "title": "Tadeu Schmidt lamenta morte de Oscar Schmidt: “Meu maior ídolo”",
+            "description": "Apresentador do \"BBB\" compartilha fotos e mensagem emocionada ao se despedir do irmão, lembrando sua trajetória histórica no esporte",
+            "url": "https://gente.ig.com.br/celebridades/2026-04-17/tadeu-schmidt-lamenta-morte-de-oscar-schmidt--meu-maior-idolo.html",
+            "urlToImage": "https://i0.statig.com.br/bancodeimagens/cu/po/m2/cupom29ixlujd4vcf5j9rsqzu.jpg",
+            "publishedAt": "2026-04-17T21:58:40Z",
+            "content": "O apresentador Tadeu Schmidt usou as redes sociais nesta sexta-feira (17) para se despedir do irmão, Oscar Schmidt, que morreu aos 68 anos. Conhecido como Mão Santa, o ex-jogador é considerado um dos… [+2919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Estadão Conteúdo",
+            "title": "Tadeu Schmidt se manifesta após morte do irmão, Oscar: 'Meu maior ídolo'",
+            "description": "View this post on Instagram Tadeu Schmidt se manifestou no Instagram no final da tarde desta ...",
+            "url": "https://www.terra.com.br/diversao/gente/tadeu-schmidt-se-manifesta-apos-morte-do-irmao-oscar-meu-maior-idolo,a3e4a590193aa04811e55dc3e96c117bveebyl8f.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/611531593-vg6vmghz5vdypi3lf3wh7jpjnm.jpg",
+            "publishedAt": "2026-04-17T21:57:49Z",
+            "content": "View this post on Instagram \r\nTadeu Schmidt se manifestou no Instagram no final da tarde desta sexta-feira, 17, após a morte do irmão,Oscar Schmidt.\r\nO apresentador publicou uma série de fotos em que… [+967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Globo revela quem vai apresentar o BBB 26 nesta sexta (17/4)",
+            "description": "O irmão de Tadeu Schmidt, Oscar Schmidt, morreu nesta sexta-feira (17/4), o que gerou dúvidas sobre quem apresentaria o BBB 26",
+            "url": "https://www.metropoles.com/entretenimento/televisao/globo-revela-quem-vai-apresentar-o-bbb-26-nesta-sexta",
+            "urlToImage": "https://i.metroimg.com/mDeAHQ6wa_Vk04JVGdYCJSHPPBbCVNSLNykDt0HgZnQ/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/tadeu-schmidt-bbb-26-2.jpg",
+            "publishedAt": "2026-04-17T21:55:45Z",
+            "content": "A TV Globo definiu quem apresentará o BBB 26 desta sexta-feira (17/4).  Em nota enviada ao Metrópoles, a emissora confirmou que Tadeu Schmidt seguirá no comando da atração.\r\nA presença do jornalista … [+1909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Tatiana Moura",
+            "title": "Hortência lamenta morte de Oscar Schmidt: ‘bomba caindo na cabeça’",
+            "description": "Ex-jogador de basquete faleceu nesta sexta-feira, 17",
+            "url": "https://veja.abril.com.br/esporte/hortencia-lamenta-morte-de-oscar-schmidt-bomba-caindo-na-cabeca/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/IMG_1579.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:41:31Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90 (Reprodução/Divulgação)\r\nContinua após publicidade\r\nUma das principais jogadoras de basquete feminino da história, Hortência Marcari,… [+702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Record se pronuncia sobre morte de Oscar Schmidt: \"Profunda tristeza\"",
+            "description": "A Record divulgou uma nota lamentando a morte da lenda do basquete, que trabalhou como comentarista na emissora",
+            "url": "https://www.metropoles.com/entretenimento/televisao/record-se-pronuncia-sobre-morte-de-oscar-schmidt-profunda-tristeza",
+            "urlToImage": "https://i.metroimg.com/6YlfqfIYMQ4r5wx8FXtIs0Szzpw8PtjI8HsJMgpTrg4/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-atuou-como-comentarista-esportivo-na-record.jpg",
+            "publishedAt": "2026-04-17T21:39:26Z",
+            "content": "A Record se pronunciou sobre a morte de Oscar Schmidt, ex-jogador de basquete que morreu aos 68 anos. A lenda do esporte trabalhou como comentarista esportivo na emissora.\r\n“A Record recebe com profu… [+819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Tadeu Schmidt se pronuncia sobre a morte de Oscar: “Meu maior ídolo”",
+            "description": "O ex-jogador de basquete Oscar Schmidt morreu nesta sexta-feira (17/4); ele era irmão do apresentador Tadeu Schmidt",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/tadeu-schmidt-se-pronuncia-sobre-a-morte-de-oscar-meu-maior-idolo",
+            "urlToImage": "https://i.metroimg.com/XHvBeNIRv-GHQ6H4F8nxz7fNnPFKjUeHjC-afwOf8cQ/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-e-tadeu.jpg",
+            "publishedAt": "2026-04-17T21:38:07Z",
+            "content": "O apresentador Tadeu Schmidt, que comanda o BBB26, na TV Globo, se manifestou na noite desta sexta-feira (17/4) sobre a morte do irmão, o ex-jogador de basquete Oscar Schmidt. O jornalista relembrou … [+1753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Estadão Conteúdo",
+            "title": "Oscar Schmidt só fez menos pontos que LeBron James e mantém recordes olímpicos há décadas",
+            "description": "Lenda do baquete brasileiro, morta nesta sexta-feira, não subiu ao pódio em Olimpíadas, mas colecionou feitos impressionantes",
+            "url": "https://www.terra.com.br/esportes/basquete/oscar-schmidt-so-fez-menos-pontos-que-lebron-james-e-mantem-recordes-olimpicos-ha-decadas,75857bb3a70bac84a769390a017becc0nsuiw5sf.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/1910819143-zjpq3ixcevgnri3pldlsrg7csy.jpg",
+            "publishedAt": "2026-04-17T21:37:50Z",
+            "content": "A importância de Oscar Schmidt, morto nesta sexta-feira aos 68 anos, vai muito além dos números. As marcas atingidas por ele ao longo da vitoriosa carreira, contudo, ajudam a entender a dimensão de s… [+2770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diariodocentrodomundo.com.br"
+            },
+            "author": "Guilherme Arandas",
+            "title": "Oscar Schmidt se aliou a Maluf e sonhava ser presidente do Brasil",
+            "description": "Oscar Schmidt, morto nesta sexta-feira (17) aos 68 anos, não só marcou a história do basquete brasileiro com sua habilidade nas quadras, mas também tentou se aventurar na política após sua aposentadoria como um dos maiores ídolos do esporte. Apadrinhado pelo …",
+            "url": "https://www.diariodocentrodomundo.com.br/oscar-schmidt-se-aliou-a-maluf-e-sonhava-ser-presidente-do-brasil/",
+            "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/04/b6snpveyvncwvngvmwaw3cy2ai.jpg",
+            "publishedAt": "2026-04-17T21:37:17Z",
+            "content": "Oscar Schmidt concorreu ao Senado Federal pelo PPB, partido de Paulo Maluf. Foto: Divulgação\r\nOscar Schmidt, morto nesta sexta-feira (17) aos 68 anos, não só marcou a história do basquete brasileiro … [+2078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Esporte News Mundo",
+            "title": "Oscar e Tadeu Schmidt são irmãos? Entenda a relação entre eles",
+            "description": "Relação entre Oscar Schmidt e Tadeu Schmidt ganha destaque após morte do ídolo do basquete brasileiro; saiba qual o parentesco entre eles",
+            "url": "https://www.terra.com.br/esportes/basquete/oscar-e-tadeu-schmidt-sao-irmaos-entenda-a-relacao-entre-eles,8a4a3d2529586ae4fc306b04d45d962d8ro2njdj.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/369576633-oscar-schimidt-e-tadeu-schimidt.jpg",
+            "publishedAt": "2026-04-17T21:36:04Z",
+            "content": "A morte de Oscar Schmidt, nesta sexta-feira (17), reacendeu uma curiosidade antiga entre os fãs: qual é, afinal, a relação entre ele e Tadeu Schmidt? A dúvida, que circula há anos, voltou à tona em m… [+3070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Portal Terra",
+            "title": "Recorde em Olimpíada e vitória sobre os Estados Unidos: relembre partidas históricas de Oscar Schmidt",
+            "description": "Oscar Schmidt colecionou momentos de destaque ao longo da carreira e fez um total de 49.737 ...",
+            "url": "https://www.terra.com.br/esportes/basquete/recorde-em-olimpiada-e-vitoria-sobre-os-estados-unidos-relembre-partidas-historicas-de-oscar-schmidt,a27f35e8c831f35154cfef31c9a7b05bon8qdlsz.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/oscar-schmidt-(2)-vf961tq53b5l.png",
+            "publishedAt": "2026-04-17T21:34:33Z",
+            "content": "Oscar Schmidt colecionou momentos de destaque ao longo da carreira e fez um total de 49.737 pontos, número que o coloca como segundo maior no quesito na história. Entre tantas comemorações, há alguns… [+2456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Simone Blanes",
+            "title": "Tadeu Schmidt sobre Oscar Schmidt: “Meu maior ídolo”",
+            "description": "Irmão da lenda do basquete que morreu nesta sexta-feira 17, o apresentador prestou homenagem no Instagram",
+            "url": "https://veja.abril.com.br/esporte/tadeu-schimdt-meu-maior-idolo/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/tadeuoscar.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:32:34Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Tadeu e Oscar Schmidt: homenagem nas redes (./Reprodução)\r\nContinua após publicidade\r\n“Meu maior ídolo, minha maior referência, maior … [+292 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Exclusivo: TRF-2 suspende liminar que impedia cobrança do imposto de exportação sobre petróleo",
+            "description": "Tributo foi recriado temporariamente pela União para compensar as medidas adotadas para conter o preço do diesel, que disparou devido ao conflito no Oriente Médio",
+            "url": "https://valor.globo.com/brasil/noticia/2026/04/17/exclusivo-trf-2-suspende-liminar-que-impedia-cobranca-de-imposto-de-exportacao-sobre-petroleo.ghtml",
+            "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+            "publishedAt": "2026-04-17T21:32:25Z",
+            "content": "O presidente do Tribunal Regional Federal da 2ª Região (TRF-2), desembargador Luiz Paulo da Silva Araújo Filho, atendeu ao pedido da União e suspendeu a decisão liminar que impedia a aplicação do Imp… [+308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Tatiana Moura",
+            "title": "Tadeu Schmidt fala sobre perda do irmão Oscar: ‘que história incrível’",
+            "description": "Ex-jogador de basquete faleceu nesta sexta-feira, 17, aos 68 anos",
+            "url": "https://veja.abril.com.br/esporte/tadeu-schmidt-fala-sobre-perda-do-irmao-oscar-que-historia-incrivel/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/IMG_1577.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:31:20Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Kalel Adolfo",
+            "title": "Morre irmão de Tadeu Schmidt — ele vai apresentar o BBB hoje?",
+            "description": "O basquete perde Oscar Schmidt, irmão de Tadeu. Saiba os detalhes da morte e o luto do apresentador do BBB",
+            "url": "https://claudia.abril.com.br/famosos/morre-irmao-de-tadeu-schmidt-ele-vai-apresentar-o-bbb-hoje/",
+            "urlToImage": "https://claudia.abril.com.br/wp-content/uploads/2026/04/Oscar-Schmidt-e-Tadeu-Schmidt.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:30:47Z",
+            "content": "76 anos Abril: Claudia por apenas 9,90Oscar Schmidt, ícone do basquete brasileiro, e o irmão Tadeu Schmidt, apresentador do BBB (Reprodução/Reprodução)\r\nContinua após publicidade\r\n<ul><li>Oscar Schmi… [+4737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Portal Terra",
+            "title": "Tadeu Schmidt faz homenagem a Oscar Schmidt após morte do irmão: 'Meu maior ídolo'",
+            "description": "Tadeu Schmidt fez uma homenagem ao irmão mais velho, Oscar Schmidt, morto aos 68 anos nesta ...",
+            "url": "https://www.terra.com.br/diversao/gente/tadeu-schmidt-faz-homenagem-a-oscar-schmidt-apos-morte-do-irmao-meu-maior-idolo,168bf9a7a84be4129307714c1f3e64cerneev2ia.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/design-sem-nome-(94)-1hrrlp8ghstv8.png",
+            "publishedAt": "2026-04-17T21:28:54Z",
+            "content": "Tadeu Schmidt fez uma homenagem ao irmão mais velho, Oscar Schmidt, morto aos 68 anos nesta sexta-feira, 17. O jornalista compartilhou um álbum com fotos em diferentes momentos da vida ao lado do ex-… [+1112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Valéria França",
+            "title": "A noite em que Oscar Schmidt entrou para o Hall da Fama olímpico do Brasil",
+            "description": "O filho Felipe recebeu a homenagem que eternizou as vitórias e o legado de uma vida inteira",
+            "url": "https://veja.abril.com.br/esporte/a-noite-que-oscar-schmidt-entrou-para-o-hall-da-fama-do-comite-olimpico-do-brasil/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-17-181153.png?resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:25:57Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90PREMIAÇÃO - Filho representa o pai e faz discurso emocionado (instagram/Reprodução)\r\nContinua após publicidade\r\n<ul><li>Oscar Schmidt … [+2666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "\"Sem chão\", desabafa Felipe, filho de Oscar Schmidt, após morte do pai",
+            "description": "O corredor usou o Instagram, nesta sexta-feira (17/4), para falar sobre a perda familiar, pedir respeito ao luto e se declarar ao ex-jogador Oscar Schmidt",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/sem-chao-desabafa-felipe-filho-de-oscar-schmidt-apos-morte-do-pai",
+            "urlToImage": "https://i.metroimg.com/Gr7VyCE1OwS0NV_fGkSZTBSI-U9NM0tGCNtPr97M45o/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/fs-1743.jpeg",
+            "publishedAt": "2026-04-17T21:23:21Z",
+            "content": "A morte de Oscar Schmidt, nesta sexta-feira (17/4), pegou o mundo dos esportes e familiares do ex-atleta de surpresa. Após a confirmação do falecimento, Felipe, filho do ex-jogador de basquete, publi… [+2466 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diariodocentrodomundo.com.br"
+            },
+            "author": "Guilherme Arandas",
+            "title": "Pan de 87: o jogo em que Oscar destruiu os EUA e “criou” o Dream Team",
+            "description": "O ex-jogador de basquete Oscar Schmidt deixou um legado imensurável no basquete brasileiro. Sua trajetória é marcada por feitos que não só elevaram o esporte no Brasil, mas também impactaram o basquete mundial. O momento que consolidou sua carreira aconteceu …",
+            "url": "https://www.diariodocentrodomundo.com.br/pan-de-87-o-jogo-em-que-oscar-destruiu-os-eua-e-criou-o-dream-team/",
+            "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/04/33073817-indianopolis-eua-23-08-1987-olimpiadas-jogos-pan-americanos-1987-indianopolis-basqu.jpg",
+            "publishedAt": "2026-04-17T21:23:00Z",
+            "content": "Oscar Schmidt na final do Pan de 1987. Foto: Divulgação\r\nO ex-jogador de basquete Oscar Schmidt deixou um legado imensurável no basquete brasileiro. Sua trajetória é marcada por feitos que não só ele… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Giovanna Fraguito",
+            "title": "A homenagem que Oscar Schmidt ganhou nove dias antes de morrer",
+            "description": "Por questões de saúde, o ex-jogador de basquete não compareceu à cerimônia",
+            "url": "https://veja.abril.com.br/esporte/a-homenagem-que-oscar-schmidt-ganhou-nove-dias-antes-de-morrer/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-17-181153.png?resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:21:28Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90PREMIAÇÃO - Filho representa o pai e faz discurso emocionado (instagram/Reprodução)\r\nContinua após publicidade\r\nLenda do basquete no B… [+558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Paula Felix",
+            "title": "Oscar Schmidt: a jornada da lenda do basquete contra o câncer de cérebro",
+            "description": "Ex-jogador de basquete lutava contra tumor desde 2011; 88% das lesões de sistema nervoso central são no cérebro, segundo Inca",
+            "url": "https://veja.abril.com.br/saude/oscar-schmidt-a-jornada-da-lenda-do-basquete-contra-o-cancer-de-cerebro/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2018/02/esporte-oscar-schmidt.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:20:26Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Oscar Schmidt durante a partida da NBA no Brasil entre Chicago Bulls e Washington Wizards, na Arena HSBC, no Rio de Janeiro - 12/10/20… [+3757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Paula Felix",
+            "title": "Oscar Schmitd: a jornada da lenda do basquete contra o câncer de cérebro",
+            "description": "Ex-jogador de basquete lutava contra tumor desde 2011; 88% das lesões de sistema nervoso central são no cérebro, segundo Inca",
+            "url": "https://veja.abril.com.br/saude/oscar-schmitd-a-jornada-da-lenda-do-basquete-contra-o-cancer-de-cerebro/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2018/02/esporte-oscar-schmidt.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:20:26Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Oscar Schmidt durante a partida da NBA no Brasil entre Chicago Bulls e Washington Wizards, na Arena HSBC, no Rio de Janeiro - 12/10/20… [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Tadeu Schmidt lamenta morte do irmão, Oscar Schmidt: \"Meu maior ídolo\"",
+            "description": "Lenda do basquete mundial, Oscar Schmidt, irmão de Tadeu Schmidt, morreu nesta sexta-feira (17/4)",
+            "url": "https://www.metropoles.com/celebridades/tadeu-schmidt-compartilha-homenagem-apos-morte-do-irmao-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/rn1V3gSCz9CPMxEn7Nh5frJae85dBYs68ZxX9MY0Bm0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-sendo-entrevistado-pelo-irmao-tadeu-schmidt.jpg",
+            "publishedAt": "2026-04-17T21:20:00Z",
+            "content": "“Meu maior ídolo!”, escreveu Tadeu Schmidt em uma homenagem emocionante ao irmão mais velho Oscar Schmidt. Lenda do basquete e ícone do esporte brasileiro, o atleta morreu em São Paulo (SP) nesta sex… [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Thiago Gelli",
+            "title": "Tadeu Schmidt homenageia o irmão, Oscar: “Meu maior ídolo”",
+            "description": "Ex-jogador de basquete morreu nessa sexta-feira, 17, aos 68 anos",
+            "url": "https://veja.abril.com.br/cultura/tadeu-schmidt-homenageia-o-irmao-oscar-meu-maior-idolo/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/tadeuoscar.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T21:18:39Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Tadeu e Oscar Schmidt (./Reprodução)\r\nContinua após publicidade\r\nO apresentador Tadeu Schmidt utilizou o Instagram para homenagear o i… [+1173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Octávio Guedes, da GloboNews, chora ao falar da morte de Oscar Schmidt",
+            "description": "Durante o programa GloboNews Mais, o comentarista se emocionou ao relembrar a trajetória de Oscar Schmidt: “Morre um pouco da gente”",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/octavio-guedes-da-globonews-chora-ao-falar-da-morte-de-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/FQ3RIUDstWvHLAP7nse1WnVIhgx7nbjo9RdLSqgREsc/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-shcmidt.jpg",
+            "publishedAt": "2026-04-17T21:16:00Z",
+            "content": "A morte do ex-jogador de basquete Oscar Schmidt abalou os brasileiros na tarde desta sexta-feira (17/4). Durante o programa GloboNews Mais, comandado por Julia Duailibi, o comentarista Octávio Guedes… [+2063 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Lula lamenta morte de Oscar Schmidt: \"Ídolo brasileiro\"",
+            "description": "Presidente Lula afirmou que Oscar Schmidt é um \"exemplo de obstinação, talento e de amor à camisa da Seleção\"",
+            "url": "https://www.metropoles.com/brasil/lula-lamenta-morte-de-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/BE7CcZ25x0zRd7WsMy-08hbjlL9Qcvm1XvKebG13TBQ/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/lula-posse-guimaraes.jpeg",
+            "publishedAt": "2026-04-17T21:15:00Z",
+            "content": "O presidente Luiz Inácio Lula da Silva lamentou, nesta sexta-feira (17/4), a morte de Oscar Schmidt, lenda do esporte e maior jogador de basquete do Brasil. Segunda o petista, o ex-atleta foi “exempl… [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ig.com.br"
+            },
+            "author": "José Coutinho, José Coutinho",
+            "title": "NBA, Flamengo e Corinthians se despedem de Oscar Schmidt",
+            "description": "Ídolo do basquete brasileiro teve morte confirmada na tarde desta sexta-feira (17); Clubes e entidades do esporte lamentaram a perda",
+            "url": "https://esporte.ig.com.br/futebol/2026-04-17/nba--flamengo-e-corinthians-se-despedem-de-oscar-schmidt.html",
+            "urlToImage": "https://i0.statig.com.br/bancodeimagens/4p/rr/d5/4prrd5b6zoy9psy4bvuj0970m.jpg",
+            "publishedAt": "2026-04-17T21:10:33Z",
+            "content": "O Brasil lamenta a perda de um dos grandes ícones do esporte nacional. Morreu, na tarde desta sexta-feira (17), Oscar Schmidt, ídolo do basquete brasileiro, aos 68 anos. A informação foi confirmada p… [+2306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Morre lenda do basquete Oscar Schmidt, aos 68 anos",
+            "description": "Ex-atleta teve mal súbito em casa e foi levado para o hospital, mas não resistiu. Maior cestinha da história dos Jogos Olímpicos, \"Mão Santa\" lutava há 15 anos contra um câncer no cérebro.",
+            "url": "https://www.dw.com/pt-br/morre-lenda-do-basquete-oscar-schmidt-aos-68-anos/a-76839506",
+            "urlToImage": "https://static.dw.com/image/76839256_6.jpg",
+            "publishedAt": "2026-04-17T21:10:00Z",
+            "content": "Morreu nesta sexta-feira (17/04) o ex-jogador de basquete brasileiro Oscar Schmidt, aos 68 anos. Ele estava em sua casa, no bairro de Alphaville, na Grande São Paulo, quando passou mal e foi internad… [+4125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Oscar Schmidt não gostava do apelido \"Mão Santa\", revela ex-técnico. Veja vídeo",
+            "description": "Segundo maior cestinha da história com 49.737 pontos, reconhecido como \"Mão Santa\", Oscar preferia ser chamado de \"mão treinada\"",
+            "url": "https://www.metropoles.com/esportes/oscar-schmidt-nao-gostava-do-apelido-mao-santa-revela-ex-tecnico",
+            "urlToImage": "https://i.metroimg.com/NoQ_fL504J3OQa_8Kuvf9t7rClV03YW7oBOfBM3w2Bw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-capa.jpeg",
+            "publishedAt": "2026-04-17T21:09:55Z",
+            "content": "O ex-jogador Oscar Schmidtfaleceu nesta sexta-feira (17/4), em São Paulo. Ídolo do basquete, Oscar é o segundo jogador com mais pontos marcados no esporte no mundo. Pelo desempenho na pontuação que a… [+1406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Portal Terra",
+            "title": "Muito além do Brasil: Oscar era o maior ídolo de Kobe Bryant",
+            "description": "O 'Black Mamba', que morreu em janeiro de 2020, assistiu ao brasileiro jogar contra seu pai enquanto morava na Itália, durante a infância",
+            "url": "https://www.terra.com.br/esportes/basquete/muito-alem-do-brasil-oscar-era-maior-idolo-de-kobe-bryant,e2f86055925a010e025f2d4932429bd1x0dvbdz3.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/oscar-kobe-bryant-qxte0edr1oon.png",
+            "publishedAt": "2026-04-17T21:09:18Z",
+            "content": "Kobe Bryant, um dos maiores jogadores de basquete de todos os tempos, tinha Oscar Schmidt, que morreu nesta sexta-feira, 17, aos 68 anos, como ídolo na modalidade. Nas ocasiões em que se encontraram,… [+2877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "A surpreendente relação de Pedro Bial e Oscar Schmidt",
+            "description": "O apresentador e o ídolo nacional têm uma ligação inusitada que surgiu há muitos anos",
+            "url": "https://www.metropoles.com/celebridades/a-surpreendente-relacao-de-pedro-bial-e-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/n0q0Unriwem5mfbVgD11BMeTTAQ7RgQ1pKw-Elr-xSU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/pedro-bial-e-oscar-schmidt.jpg",
+            "publishedAt": "2026-04-17T21:07:48Z",
+            "content": "Oscar Schmidt morreu nesta sexta-feira (17/4), aos 68 anos. Uma das relações inesperadas do ex-jogador de basquete foi com Pedro Bial. O ídolo nacional e o apresentador nasceram no mesmo ano, em 1958… [+579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Estadão Conteúdo",
+            "title": "São Paulo Innovation Week será ponto de encontro de CEOs de grandes empresas; veja quais",
+            "description": "O festival reunirá em maio executivos com poder de decisão em setores como tecnologia, agronegócio, varejo, educação e saúde",
+            "url": "https://www.terra.com.br/economia/sao-paulo-innovation-week-sera-ponto-de-encontro-de-ceos-de-grandes-empresas-veja-quais,7379b0bce892601fc47ba738444b73be43cdwujj.html",
+            "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+            "publishedAt": "2026-04-17T21:07:09Z",
+            "content": "\"Uma oportunidade incrível para dar uma 'sacudida' nas pessoas, fazendo-as refletir sobre o momento em que vivemos e o papel de cada um nessa transformação (provocada pela inteligência artificial).\" … [+5468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "Victoria Bechara",
+            "title": null,
+            "description": "Morto hoje aos 68 anos, Oscar Schmidt teve uma breve carreira política. Foi secretário municipal de Esportes de São Paulo na administração de Celso Pitta e se candidatou ao Senado em 1998, mas não foi eleito.O que aconteceuLenda do basquete disputou a",
+            "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/04/17/oscar-perdeu-eleicao-para-o-senado-e-comparou-suplicy-a-scottie-pippen.ghtm",
+            "urlToImage": "https://conteudo.imguol.com.br/c/noticias/6a/2026/04/17/16jul1998---o-jogador-de-basquete-oscar-schmidt-de-azul-acompanha-o-candidato-ao-governo-de-sao-paulo-paulo-maluf-de-oculos-em-carreata-pelo-abc-paulista-de-de-diadema-a-maua-1776457466796_v2_615x300.jpg",
+            "publishedAt": "2026-04-17T21:05:04Z",
+            "content": "Oscar comparou Suplicy ao astro da NBA Scottie Pippen. Em entrevista à Folha de S.Paulo, ele disse que perdeu a eleição porque \"lutava contra um dos senadores mais conceituados da história.\"\r\nFoi uma… [+1442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Oscar Schmidt era apaixonado por animais e teve vários pets; relembre",
+            "description": "Ex-jogador de 68 anos, Oscar Schmidt, conhecido como “Mão Santa”, não resistiu após ter um mal-estar em São Paulo; ele amava pets",
+            "url": "https://www.metropoles.com/colunas/e-o-bicho/oscar-schmidt-era-apaixonado-por-animais-e-teve-varios-pets-relembre",
+            "urlToImage": "https://i.metroimg.com/AdZg0gFaHth7YodPKQqbYu2YaySxduqh1t79WqnSPnY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/whatsapp-image-2026-04-17-at-171237.jpeg",
+            "publishedAt": "2026-04-17T21:01:55Z",
+            "content": "Lenda do basquete brasileiro, o ex-jogador Oscar Schmidt morreu nesta sexta-feira (17/4), aos 68 anos. Acostumado aos holofotes durante a carreira no basquete, Oscar Schmidt adotava uma postura bem d… [+2020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Autoridades lamentam a morte de Oscar Schmidt, ídolo do basquete",
+            "description": "Vice-presidente Geraldo Alckmin e o presidente do Senado, Davi Alcolumbre, lamentaram a morte de Oscar Schmidt",
+            "url": "https://www.metropoles.com/brasil/autoridades-lamentam-morte-de-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/NoQ_fL504J3OQa_8Kuvf9t7rClV03YW7oBOfBM3w2Bw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-capa.jpeg",
+            "publishedAt": "2026-04-17T20:58:13Z",
+            "content": "Autoridades lamentaram a morte de Oscar Schmidt, ídolo do basquete nacional e mundial, ocorrida nesta sexta-feira (17/4).\r\nUm dos que se manifestaram foi o vice-presidente Geraldo Alckmin (PSB). Em p… [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Portal Terra",
+            "title": "Oscar Schmidt morreu carregando forte frustração por erro em Olimpíada: 'Não tem um dia que não lembre'",
+            "description": "Pela seleção brasileira, Oscar foi tricampeão sul-americano, ouro no Pan-Americano de 1987 e bronze no Mundial de 1978",
+            "url": "https://www.terra.com.br/esportes/basquete/oscar-schmidt-morreu-carregando-forte-frustracao-por-erro-em-olimpiada-nao-tem-um-dia-que-nao-lembre,a159d9effb7a3471071c5d6e2662ef4fdmhh1vh9.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/gettyimages-143603296-1ib6h6krzzckj.jpg",
+            "publishedAt": "2026-04-17T20:57:55Z",
+            "content": "Oscar Schmidt, ícone do basquete brasileiro, morreu nesta sexta-feira, 7, aos 68 anos, carregando uma forte frustração por um erro de uma cesta durante a Olimpíada de Seul, em 1988. O Brasil disputav… [+1672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Entenda os sinais do câncer cerebral, doença que matou Oscar Schmidt",
+            "description": "O ex-atleta Oscar Schmidt lutou por mais de 15 contra um tumor cerebral; conheça a importância do diagnóstico e os principais sintomas",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/entenda-os-sinais-do-cancer-cerebral-doenca-que-matou-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/S0RL25iOLO_S5vdwt_3-zXoDg6etRcP458lDJlXH844/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/sc-174.jpg",
+            "publishedAt": "2026-04-17T20:53:49Z",
+            "content": "O Brasil se despediu nesta sexta-feira (17/4) do ex-jogador de basquete Oscar Schmidt, conhecido como Mão Santa. O ex-atleta, um dos maiores ídolos do esporte nacional, morreu aos 68 anos. Ele lutava… [+2292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Congressoemfoco.com.br"
+            },
+            "author": "",
+            "title": "Morre Oscar Schmidt; ídolo do basquete já tentou carreira política",
+            "description": "Ex-jogador tinha 68 anos e chegou a disputar eleição em 1998, após passagem pela gestão municipal de São Paulo.",
+            "url": "https://www.congressoemfoco.com.br/noticia/118232/morre-oscar-schmidt-idolo-do-basquete-ja-tentou-carreira-politica",
+            "urlToImage": "https://static.congressoemfoco.com.br/2026/04/17/cong_redes_retangular/2026/04/17/f8daf2_cong_redes_retangular_manual_32792733high.jpeg",
+            "publishedAt": "2026-04-17T20:52:12Z",
+            "content": "Morreu nesta sexta-feira (17), aos 68 anos, o ex-jogador de basquete Oscar Schmidt, após passar mal em sua casa, em Santana de Parnaíba, na Grande São Paulo.\r\nConsiderado um dos maiores nomes da hist… [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Sonho de virar presidente: a trajetória de Oscar Schmidt na política",
+            "description": "Lenda do basquete foi Secretário Municipal de Esportes e concorreu a uma vaga ao Senado; relembre a vida política de Oscar Schmidt",
+            "url": "https://www.metropoles.com/sao-paulo/sonho-de-virar-presidente-a-trajetoria-de-oscar-schmidt-na-politica",
+            "urlToImage": "https://i.metroimg.com/B_MaBmDEHMO7s7_xnaGMWtSNacCYBSzvyEKkY8h0bgw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/whatsapp-image-2026-04-17-at-171050.jpeg",
+            "publishedAt": "2026-04-17T20:51:25Z",
+            "content": "O ex-jogador de basquete Oscar Schmidt, que morreu aos 68 anos nesta sexta-feira (17/4), sonhava em se tornar presidente da República. Ele, inclusive, teve uma breve carreira na política, após a apos… [+4370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ig.com.br"
+            },
+            "author": "Victor Meira, Victor Meira",
+            "title": "Oscar Schmidt e Seleção de 87 causaram revolução na NBA",
+            "description": "Principal nome da conquista do Pan-Americano, ex-jogador de 68 anos faleceu nesta sexta-feira (17), em Santana de Parnaíba, em São Paulo",
+            "url": "https://esporte.ig.com.br/maisesportes/2026-04-17/oscar-schmidt-selecao-de-87-causaram-revolucao-nba.html",
+            "urlToImage": "https://i0.statig.com.br/bancodeimagens/d8/qa/vh/d8qavha8ypww9cj7halxvusw7.jpg",
+            "publishedAt": "2026-04-17T20:50:55Z",
+            "content": "Morreu na tarde desta sexta-feira (17), em Santana de Parnaíba, na Região Metropolitana de São Paulo, Oscar Schmidt, aos 68 anos de idade. A informação foi confirmada por sua assessoria.\r\nOscar foi o… [+3248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Nara Boechat",
+            "title": "O motivo de Oscar Schmidt ter dito ‘não’ à NBA",
+            "description": "'Mão Santa' morreu nesta sexta-feira, 17",
+            "url": "https://veja.abril.com.br/esporte/o-motivo-de-oscar-schmidt-ter-dito-nao-a-nba/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/olv1vrsemhduun7qoihe.avif?resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T20:49:57Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90LENDA Oscar Schmidt, pela seleção (Doug Pensinger/Getty Images)\r\nContinua após publicidade\r\nA decisão de Oscar Schmidtde não atuar na … [+1036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Senadora e ícone do vôlei sobre morte de Oscar Schmidt: \"Vazio imenso\"",
+            "description": "Leila do Vôlei se pronunciou sobre o falecimento de Oscar e o classificou como “uma das maiores lendas” do esporte brasileiro",
+            "url": "https://www.metropoles.com/distrito-federal/senadora-e-icone-do-volei-sobre-morte-de-oscar-schmidt-vazio-imenso",
+            "urlToImage": "https://i.metroimg.com/KmbkYxxSBIQsP8cw7Kt6RsSewaczUiFw-u8gtqu_n-o/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/leila-e-oscar.jpg",
+            "publishedAt": "2026-04-17T20:49:27Z",
+            "content": "A senadora e ex-atleta Leila do Vôlei (PDT-DF) se manifestou sobre a morte de Oscar Schmidt, que faleceu na tarde desta sexta-feira (17/4), aos 68 anos, após ser internado às pressas.\r\nVeja:\r\nHoje o … [+3855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diariodocentrodomundo.com.br"
+            },
+            "author": "Guilherme Arandas",
+            "title": "“Mão Santa”: a carreira impressionante de Oscar Schmidt, maior pontuador da história do basquete",
+            "description": "O ex-jogador de basquete Oscar Daniel Bezerra Schmidt, nascido em 16 de fevereiro de 1958 em Natal (RN) e falecido nesta sexta-feira, 17 de abril de 2026, em Santana de Parnaíba (SP), foi um dos maiores jogadores de basquete de todos os tempos, tanto no Brasi…",
+            "url": "https://www.diariodocentrodomundo.com.br/mao-santa-a-carreira-impressionante-de-oscar-schmidt-maior-pontuador-da-historia-do-basquete/",
+            "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/04/whatsapp-image-2019-02-18-at-16-12-43.jpeg",
+            "publishedAt": "2026-04-17T20:47:28Z",
+            "content": "O ex-jogador de basquete Oscar Schmidt. Foto: Divulgação\r\nO ex-jogador de basquete Oscar Daniel Bezerra Schmidt, nascido em 16 de fevereiro de 1958 em Natal (RN) e falecido nesta sexta-feira (17), em… [+2919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diariodocentrodomundo.com.br"
+            },
+            "author": "Caique Lima",
+            "title": "“Lendas não se despedem”: a homenagem da CBB a Oscar Schmidt",
+            "description": "A Confederação Brasileira de Basquete (CBB) homenageou Oscar Schmidt, o “Mão Santa”, após sua morte nesta sexta (17), aos 68 anos. Em texto publicado no seu site, a entidade afirmou que ele foi um atleta que se tornou “eterno”. “Há atletas que marcam época. O…",
+            "url": "https://www.diariodocentrodomundo.com.br/lendas-nao-se-despedem-a-homenagem-da-cbb-a-oscar-schmidt/",
+            "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-17-at-17-42-12.jpeg",
+            "publishedAt": "2026-04-17T20:47:05Z",
+            "content": "Oscar Schmidt. Foto: Reprodução\r\nA Confederação Brasileira de Basquete (CBB) homenageou Oscar Schmidt, o “Mão Santa”, após sua morte nesta sexta (17), aos 68 anos. Em texto publicado no seu site, a e… [+6377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "CBF lamenta morte de Oscar Schmidt, astro do basquete brasileiro",
+            "description": "A Confederação Brasileira de Futebol (CBF) lamenta a morte da lenda do basquete mundial, Oscar Schmidt",
+            "url": "https://www.metropoles.com/esportes/cbf-lamenta-morte-de-oscar-schmidt-astro-do-basquete-brasileiro",
+            "urlToImage": "https://i.metroimg.com/5RHrkRm29ihZs3EI_dyTZPukZQVVw0cLNRiVyrc11vY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar5.jpg",
+            "publishedAt": "2026-04-17T20:46:37Z",
+            "content": "A Confederação Brasileira de Futebol fez uma postagem lamentando o falecimento de Oscar Schmidt, lenda do esporte mundial. Ele morreu, nesta sexta (17/4), os 68 anos de idade.\r\nConfira a nota na ínte… [+672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Tatiana Moura",
+            "title": "A emoção e admiração permanentes de Tadeu Schmidt ao falar do irmão Oscar",
+            "description": "Ex-jogador de basquete morreu nesta sexta-feira, 17, aos 68 anos",
+            "url": "https://veja.abril.com.br/esporte/a-emocao-e-admiracao-permanentes-de-tadeu-schmidt-ao-falar-do-irmao-oscar/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/tadeuoscar.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T20:45:48Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Tadeu e Oscar Schmidt (./Reprodução)\r\nContinua após publicidade\r\nOscar Schmidt morreu nesta sexta-feira, 17, aos 68 anos, em São Paulo… [+1227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Clubes paulistas se manifestam sobre morte de Oscar Schmidt",
+            "description": "Astro do basquete atuou por Palmeiras e Corinthians. Ele foi eternizado no Hall da Fama do Comitê Olímpico do Brasil (COB) na semana passada",
+            "url": "https://www.metropoles.com/sao-paulo/clubes-paulistas-se-manifestam-sobre-morte-de-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/AhsobtffQyHcqGh6rZscBB4_5970bHR4ShX0nl8WMgo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-tadeu-schmidt-4.jpg",
+            "publishedAt": "2026-04-17T20:44:58Z",
+            "content": "Os clubes paulistas lamentaram a morte da lenda do basquete brasileiro, Oscar Schmidt. Ele morreu nesta sexta-feira (17/4) aos 68 anos no Hospital e Maternidade Municipal Santa Ana (HMSA), em Santana… [+2767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Marcelo Marthe",
+            "title": "A homenagem tocante do filho de Oscar Schmidt após a morte do pai",
+            "description": "Em post emocionado no Instagram, Felipe Schmidt se manifestou sobre perda do pai: \"Um ídolo para o mundo, um pai para mim\"",
+            "url": "https://veja.abril.com.br/esporte/a-homenagem-tocante-do-filho-de-oscar-schmidt-apos-morte-do-pai/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/oscar-e-filho.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T20:43:13Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Oscar Schmidt e o filho Felipe (Instagram/Reprodução)\r\nContinua após publicidade\r\nLogo após a confirmação da morte de Oscar Schmidt, n… [+1296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Ministério do Esporte ressalta \"legado inesquecível\" de Oscar Schmidt",
+            "description": "Conhecido como “Mão Santa”, Oscar Schmidt foi um dos maiores nomes da história do basquete e um dos maiores atletas do esporte do Brasil",
+            "url": "https://www.metropoles.com/brasil/ministerio-do-esporte-ressalta-legado-inesquecivel-de-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/AhsobtffQyHcqGh6rZscBB4_5970bHR4ShX0nl8WMgo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-tadeu-schmidt-4.jpg",
+            "publishedAt": "2026-04-17T20:41:16Z",
+            "content": "O Ministério do Esporte se manifestou, por meio de nota, após a confirmação da morte do ex-jogador de basquete Oscar Schmidt. O atleta faleceu nesta sexta-feira (17/4), aos 68 anos.\r\nAo lamentar a pe… [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Giovanna Fraguito",
+            "title": "Tadeu se emocionou ao falar do irmão Oscar Schmidt em homenagem do COB",
+            "description": "Jogador foi homenageado por sua história no basquete há cerca de uma semana",
+            "url": "https://veja.abril.com.br/esporte/tadeu-se-emocionou-ao-falar-do-irmao-oscar-schmidt-em-homenagem-do-cob/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/Tadeu-Schmidt.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T20:40:09Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Tadeu Schmidt (Reprodução/Instagram)\r\nContinua após publicidade\r\nOscar Schmidt, que morreu aos 68 anos nesta sexta-feira, 17, foi home… [+776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "\"Mão Santa\": Oscar Schmidt iniciou carreira profissional em São Paulo",
+            "description": "Natural de Natal (RN), Oscar se mudou para São Paulo aos 16 anos e iniciou a carreira no time infantojuvenil do Palmeiras",
+            "url": "https://www.metropoles.com/sao-paulo/oscar-schmidt-carreira-sao-paulo",
+            "urlToImage": "https://i.metroimg.com/elQYxiuCufS5k_O176N-opkJZkdHMYrHjkd62UqEk9U/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-palmeiras.jpg",
+            "publishedAt": "2026-04-17T20:39:38Z",
+            "content": "Oscar Schmidt, maior nome da história do basquete brasileiro e conhecido como “Mão Santa”, iniciou sua carreira profissional no esporte no time infantojuvenil do Palmeiras. O ex-atleta da Seleção Bra… [+4644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Valmir Moratelli",
+            "title": "A rápida passagem de Oscar Schmidt pela política: queria ser presidente",
+            "description": "Jogador foi derrotado por Eduardo Suplicy (PT) em tentativa de eleição para o Senado",
+            "url": "https://veja.abril.com.br/esporte/a-rapida-passagem-de-oscar-schmidt-pela-politica-queria-ser-presidente/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/olv1vrsemhduun7qoihe.avif?resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T20:38:38Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90LENDA Oscar Schmidt, pela seleção (Doug Pensinger/Getty Images)\r\nContinua após publicidade\r\nO ex-jogador Oscar Schmidt, que morreu nes… [+922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "COB presta condolências após falecimento de Oscar Schmidt. Confira",
+            "description": "Em nota, Comitê Olímpico Brasileiro (COB) lamentou o falecimento do ex-jogador Oscar Schmidt, ídolo do basquete mundial",
+            "url": "https://www.metropoles.com/esportes/cob-presta-condolencias-apos-falecimento-de-oscar-schmidt-confira",
+            "urlToImage": "https://i.metroimg.com/Y4QrqbugCOkiJWyHtAljOmg8er6gERHTjaKkYYy8Loo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar2-1.jpg",
+            "publishedAt": "2026-04-17T20:37:21Z",
+            "content": "O Comitê Olímpico Brasileiro (COB) emitiu uma nota oficial de condolências pelo falecimento de Oscar Schmidt, ídolo do basquete brasileiro e segundo maior pontuador da história do esporte no mundo. A… [+3064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Tumor cerebral: entenda a doença que Oscar Schmidt tinha desde 2011",
+            "description": "Ídolo enfrentou tumor cerebral por anos 15 anos. Entenda os principais sintomas da doença",
+            "url": "https://www.metropoles.com/saude/tumor-cerebral-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/NoQ_fL504J3OQa_8Kuvf9t7rClV03YW7oBOfBM3w2Bw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-capa.jpeg",
+            "publishedAt": "2026-04-17T20:36:37Z",
+            "content": "Morreu nesta sexta-feira (17/4), Oscar Schmidt, um dos maiores nomes da história do basquete mundial, aos 68 anos. O fato foi confirmado pela família através de nota oficial.\r\nA causa do falecimento … [+2005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Oscar passou mal em casa e chegou ao hospital sem vida, diz prefeitura",
+            "description": "O ex-jogador foi eternizado no Hall da Fama do Comitê Olímpico do Brasil (COB), em premiação recebida pelo seu filho, Felipe, em 8 de abril",
+            "url": "https://www.metropoles.com/sao-paulo/oscar-chegou-hospital-sem-vida",
+            "urlToImage": "https://i.metroimg.com/NoQ_fL504J3OQa_8Kuvf9t7rClV03YW7oBOfBM3w2Bw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-capa.jpeg",
+            "publishedAt": "2026-04-17T20:36:31Z",
+            "content": "Oscar Schmidt, a lenda do basquete brasileiro que morreu na tarde desta sexta-feira (17/4), em São Paulo, passou mal em sua casa, foi socorrido pelo serviço de resgate já em parada cardiorrespiratóri… [+2569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ig.com.br"
+            },
+            "author": "Donizetti Tobias, Donizetti Tobias",
+            "title": "Filho de Oscar Schmidt homenageia pai: \"Um exemplo de vida\"",
+            "description": "Ídolo do basquete mundial e considerado o maior jogador brasileiro da história no esporte, Mão Santa faleceu nesta sexta-feira (17), aos 68 anos",
+            "url": "https://esporte.ig.com.br/basquete/2026-04-17/filho-de-oscar-schmidt-homenageia-pai---um-exemplo-de-vida-.html",
+            "urlToImage": "https://i0.statig.com.br/bancodeimagens/95/ex/cx/95excxlwlolxc0mg4dbo33ppo.jpg",
+            "publishedAt": "2026-04-17T20:36:04Z",
+            "content": "Oscar Schmidt, lenda do basquete mundial e ídolo brasileiro, morreu nesta sexta-feira (17), aos 68 anos, após ser internado por sentir um mal-estar mais cedo. \r\nMomentos depois da perda, o filho Feli… [+3006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Oscar Schmidt recebeu título de Cidadão Honorário de Brasília em 1998",
+            "description": "Na época, durante o discurso de agradecimento, Oscar disse que estava recebendo um “título que qualquer pessoa do mundo sonha em ter\"",
+            "url": "https://www.metropoles.com/distrito-federal/oscar-schmidt-recebeu-titulo-de-cidadao-honorario-de-brasilia-em-1998",
+            "urlToImage": "https://i.metroimg.com/PgteSLBNEspQi2VdfMsRnoZxlTKskig4j_NC3KEQg-I/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar4.jpg",
+            "publishedAt": "2026-04-17T20:35:12Z",
+            "content": "Lenda do basquete brasileiro, Oscar Schmidt, que morreu na tarde desta sexta-feira (17/4), aos 68 anos, recebeu o título de Cidadão Honorário de Brasília, em 1998. Na época, durante o discurso de agr… [+2893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Portal Terra",
+            "title": "Adeus ao 'Mão Santa': federações, clubes, atletas e autoridades se despedem de Oscar Schmidt",
+            "description": "Família confirmou a morte da maior lenda do basquete nacional nesta sexta-feira, 17, aos 68 anos",
+            "url": "https://www.terra.com.br/esportes/basquete/adeus-ao-mao-santa-federacoes-clubes-atletas-e-autoridades-se-despedem-de-oscar-schmidt,d98eccb99ee9cf80a6b39b33342e38968lv1qlne.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/302544.jpg",
+            "publishedAt": "2026-04-17T20:34:23Z",
+            "content": "Federações, clubes, atletas e autoridades prestaram homenagens a Oscar Schmidt, morto nesta sexta-feira, 17, aos 68 anos. A informação foi confirmada através de uma nota publicada pela família do 'Mã… [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Malufista, Oscar foi secretário de Pitta e perdeu disputa ao Senado",
+            "description": "Lenda do basquete, Oscar Schmidt faleceu nesta sexta-feira (17/4), aos 68 anos. Ele disse que sonhava ser presidente da República",
+            "url": "https://www.metropoles.com/sao-paulo/oscar-secretario-pitta-disputa-senado",
+            "urlToImage": "https://i.metroimg.com/IvwVzBmqSvWuadtirXNygSWIGtwAIKoGLg_zLIxYlHo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/os-1745.jpg",
+            "publishedAt": "2026-04-17T20:33:32Z",
+            "content": "A lenda do basquete Oscar Schmidt, que faleceu aos 68 anos nesta sexta-feira (17/), entrou para a política após se aposentar das quadras. Entre 1997 e 1998, ele foi Secretário Municipal de Esportes, … [+3632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "NBB terá um minuto de silêncio em homenagem a Oscar Schmidt",
+            "description": "Oscar Schmidt, um dos maiores nomes do basquete mundial, morreu nesta sexta-feira (17/4) após passar mal em casa",
+            "url": "https://www.metropoles.com/esportes/nbb-tera-um-minuto-de-silencio-em-homenagem-a-oscar-schmidt",
+            "urlToImage": "https://i.metroimg.com/TWbWUSPFMiuQ23k31-PWqPhq3JF7Z5eWzlgQ5_QOm9o/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-em-jogo-olimpico.jpg",
+            "publishedAt": "2026-04-17T20:31:39Z",
+            "content": "A sexta-feira (17/4) marca um dia triste na história do basquete nacional e mundial. Oscar Schmidt, conhecido como “Mão Santa”, morreu após passar mal em casa. O NBB confirmou que os três jogos previ… [+1582 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metropoles.com"
+            },
+            "author": "Metrópoles",
+            "title": "Brasília Basquete lamenta morte de Oscar Schmidt, aos 68 anos",
+            "description": "A lenda do basquete, Oscar Schmidt, faleceu aos 68 anos, após ser internado às pressas",
+            "url": "https://www.metropoles.com/esportes/brasilia-basquete-lamenta-morte-de-oscar-schmidt-aos-68-anos",
+            "urlToImage": "https://i.metroimg.com/TVQVrZkDRoqCvly8XDpis5_dvCN3tFfd_ETyVqfpbKU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar3.jpg",
+            "publishedAt": "2026-04-17T20:31:02Z",
+            "content": "Oscar Schmidt faleceu, nesta sexta-feira (17/4), aos 68 anos de idade. Ele foi internado às pressas após sentir um mal-estar em casa e foi encaminhado para o Hospital Municipal Santa Ana em Santana d… [+427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abril.com.br"
+            },
+            "author": "Valéria França",
+            "title": "Oscar Schmidt, o ‘Mão Santa’, deixa legado de lances impossíveis",
+            "description": "O jogador deixou passar oportunidades internacionais para continuar defendendo a seleção brasileira",
+            "url": "https://veja.abril.com.br/esporte/oscar-schmidt-o-mao-santa-deixa-legado-de-lances-impossiveis/",
+            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/olv1vrsemhduun7qoihe.avif?resize=1080,565&crop=1",
+            "publishedAt": "2026-04-17T20:29:26Z",
+            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90LENDA Oscar Schmidt, pela seleção (Doug Pensinger/Getty Images)\r\nContinua após publicidade\r\n<ul><li>Oscar Schmidt, o “Mão Santa”, rede… [+2622 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -239,6 +1162,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Esporte News Mundo",
+            "title": "Zico elogia jogador do Flamengo: \"Melhor centroavante do Brasil\"",
+            "description": "Zico elogiou Pedro após atuação pelo Flamengo e afirma que o atacante é o melhor centroavante do Brasil; entenda fala do ídolo",
+            "url": "https://www.terra.com.br/esportes/flamengo/zico-elogia-jogador-do-flamengo-melhor-centroavante-do-brasil,ceb8986e3b4f5966fcef5e0f048888efvr5foedr.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/729296311-urawa-red-diamonds-v-chapecoense-suruga-bank-championship-2048x1365.jpg",
+            "publishedAt": "2026-04-17T20:03:35Z",
+            "content": "Durante uma entrevista exclusiva concedida à TNT Sports, Zico elogiou o jogador Pedro, do Flamengo. O ídolo rubro-negro exaltou a atuação do atacante na decisão da partida contra o Fluminense no últi… [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Terra.com.br"
+            },
+            "author": "Esporte News Mundo",
+            "title": "Corinthians é punido pelo STJD e quatro jogadores são suspensos; entenda",
+            "description": "O Superior Tribunal de Justiça Desportiva (STJD) puniu o Corinthians por infrações disciplinares ocorridas no clássico contra o Palmeiras",
+            "url": "https://www.terra.com.br/esportes/corinthians-e-punido-pelo-stjd-e-quatro-jogadores-sao-suspensos-entenda,86cd8c27883beaae02ca4d8a2be86e8estmp2b1k.html",
+            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/1811606612-corinthians-v-palmeiras-brasileirao-2026-1-1-2048x1462.jpg",
+            "publishedAt": "2026-04-17T20:03:34Z",
+            "content": "O Superior Tribunal de Justiça Desportiva (STJD) puniu o Corinthians por infrações disciplinares ocorridas no clássico contra o Palmeiras, disputado na Neo Química Arena, pelo Campeonato Brasileiro. … [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Olhardigital.com.br"
             },
             "author": "Vitoria Lopes Gomez",
@@ -339,955 +1288,6 @@
             "urlToImage": "https://i0.statig.com.br/bancodeimagens/cd/1p/rw/cd1prwusm07i3l1tijqb4fsak.jpg",
             "publishedAt": "2026-04-17T19:55:02Z",
             "content": "Oscar Schmidt, considerado por muitos como o maior jogador de basquete da história do Brasil, faleceu nesta sexta-feira (17), em Santana de Parnaíba, cidade localizada na Região Metropolitana de São … [+2997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Por que Oscar Schmidt, maior ídolo do basquete brasileiro, recusou NBA",
-            "description": "Um dos maiores jogadores brasileiros de todos os tempos, Oscar Schmidt foi draftado na NBA, mas não atuou oficialmente na liga",
-            "url": "https://www.metropoles.com/esportes/por-que-oscar-schmidt-maior-idolo-do-basquete-brasileiro-recusou-nba",
-            "urlToImage": "https://i.metroimg.com/TPb_rM8aDVVfwsrrnYoOMu0i0LQCoUcdtkalzsoOvpY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-1.jpg",
-            "publishedAt": "2026-04-17T19:54:05Z",
-            "content": "Oscar Schmidt, lenda do basquete brasileiro, morreu nesta sexta-feira (17/4), aos 68 anos. O atleta teve muito destaque pelo Brasil, chegou a ser draftado pela NBA, mas não disputou nenhuma partida o… [+1287 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Natalia Tiemi Hanada",
-            "title": "Morre Oscar Schmidt, ex-jogador de basquete, aos 68 anos",
-            "description": "“Mão santa” comandou maiores conquistas da modalidade brasileira",
-            "url": "https://veja.abril.com.br/esporte/morre-oscar-schmidt-ex-jogador-de-basquete-aos-68-anos/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/Oscar-no-jogo-Brasil-X-Canada-nas-Olimpiadas-de-Seul._1.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-17T19:53:45Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Oscar, no jogo Brasil X Canadá, nas Olimpíadas de Seul. (Nellie Solitrenick/VEJA)\r\nContinua após publicidade\r\n<ul><li>Morreu Oscar Sch… [+2269 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Oscar Schmidt e Maria Cristina: a história de amor que durou 50 anos",
-            "description": "Ídolo do basquete brasileiro, Oscar Schmidt encontrou na esposa uma parceira constante dentro e fora das quadras",
-            "url": "https://www.metropoles.com/vida-e-estilo/oscar-schmidt-e-maria-cristina-a-historia-de-amor-que-durou-50-anos",
-            "urlToImage": "https://i.metroimg.com/nCM4WHTjwG4Nz_Dn548oeNFPzMD3DuV52xfm24OiKqk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/whatsapp-image-2026-04-17-at-171535.jpeg",
-            "publishedAt": "2026-04-17T19:52:58Z",
-            "content": "Conhecido como um dos maiores nomes do basquete brasileiro, Oscar Schmidt morreu nesta sexta-feira (17/4), aos 68 anos. O atleta construiu uma carreira histórica marcada por recordes, medalhas e reco… [+1781 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Oscar Schmidt é o segundo maior pontuador da história do Basquete",
-            "description": "Oscar Schmidt faleceu nesta sexta-feira (17/4) e deixou um dos maiores legados para a história do basquete mundial",
-            "url": "https://www.metropoles.com/esportes/oscar-schmidt-e-o-segundo-maior-pontuador-da-historia-do-basquete",
-            "urlToImage": "https://i.metroimg.com/AhsobtffQyHcqGh6rZscBB4_5970bHR4ShX0nl8WMgo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-tadeu-schmidt-4.jpg",
-            "publishedAt": "2026-04-17T19:52:12Z",
-            "content": "O brasileiro Oscar Schmidt consolidou seu nome como um dos maiores jogadores da história do basquete mundial. Com mais de 49.737 pontos marcados, ele ocupa a segunda posição entre os maiores cestinha… [+698 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Relembre os principais títulos da carreira de Oscar Schmidt",
-            "description": "Um dos maiores nomes do basquete brasileiro, Oscar faleceu aos 68 anos. Ao todo, Oscar disputou 25 temporadas",
-            "url": "https://www.metropoles.com/esportes/relembre-os-principais-titulos-da-carreira-de-oscar-schmidt",
-            "urlToImage": "https://i.metroimg.com/Y4QrqbugCOkiJWyHtAljOmg8er6gERHTjaKkYYy8Loo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar2-1.jpg",
-            "publishedAt": "2026-04-17T19:50:48Z",
-            "content": "Ídolo do basquete, Oscar Schmidt faleceu aos 68 anos nesta sexta-feira (17/4). A causa ainda não foi divulgada. Ele passou mal em casa e foi levado às pressas para o hospital. O ex-jogador foi um dos… [+1144 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Oscar Schimdt começou carreira brilhante no basquete em Brasília",
-            "description": "Natural de Natal (RN), o ex-atleta veio morar na Asa Sul (DF) aos 13 anos, quando se desenvolveu a paixão pelo basquete",
-            "url": "https://www.metropoles.com/distrito-federal/oscar-schimdt-comecou-carreira-brilhante-no-basquete-em-brasilia",
-            "urlToImage": "https://i.metroimg.com/SdJf7VbMqSLx0lw9AqCUopmj22Zalm5iw5sgSoHoMPI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schimdt-1.jpg",
-            "publishedAt": "2026-04-17T19:50:46Z",
-            "content": "O maior nome da história do basquete brasileiro, Oscar Schmidt iniciou a sua trajetória vitoriosa no esporte aos 13 anos, em Brasília (DF), onde morou por três anos. O ex-atleta da Seleção Brasileira… [+1915 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Oscar Schmidt começou carreira brilhante no basquete em Brasília",
-            "description": "Natural de Natal (RN), o ex-atleta veio morar na Asa Sul (DF) aos 13 anos, quando se desenvolveu a paixão pelo basquete",
-            "url": "https://www.metropoles.com/distrito-federal/oscar-oscar-schmidt-comecou-carreira-brilhante-no-basquete-em-brasilia",
-            "urlToImage": "https://i.metroimg.com/SdJf7VbMqSLx0lw9AqCUopmj22Zalm5iw5sgSoHoMPI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schimdt-1.jpg",
-            "publishedAt": "2026-04-17T19:50:46Z",
-            "content": "O maior nome da história do basquete brasileiro, Oscar Schmidt iniciou a sua trajetória vitoriosa no esporte aos 13 anos, em Brasília (DF), onde morou por três anos. O ex-atleta da Seleção Brasileira… [+1915 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "\"Eu venci essa batalha\", disse Oscar Schmidt sobre câncer em 2022",
-            "description": "Oscar Schmidt foi diagnosticado com câncer no cérebro em 2011 e disse que estava curado da doença em outubro de 2022",
-            "url": "https://www.metropoles.com/sao-paulo/eu-venci-essa-batalha-disse-oscar-schmidt-sobre-cancer-em-2022",
-            "urlToImage": "https://i.metroimg.com/sfbeilSfdI9VdfUOWxluJ0y4AWEmXCliRStPLaAOLUI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt.jpg",
-            "publishedAt": "2026-04-17T19:50:44Z",
-            "content": "O ex-jogador de basquete Oscar Schmidt foi diagnosticado com um câncer no cérebro no ano de 2011.\r\nO “Mão Santa”, uma referência à precisão dos seus arremessos, enfrentou um glioma de grau de 3, um q… [+1997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Confira os recordes da carreira de Oscar Schmidt",
-            "description": "Maior cestinha brasileiro e segundo maior pontuador da história do basquete, Oscar acumulou marcas ao longo de sua trajetória",
-            "url": "https://www.metropoles.com/esportes/confira-os-recordes-da-carreira-de-oscar-schmidt",
-            "urlToImage": "https://i.metroimg.com/TVQVrZkDRoqCvly8XDpis5_dvCN3tFfd_ETyVqfpbKU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar3.jpg",
-            "publishedAt": "2026-04-17T19:50:13Z",
-            "content": "Um dos maiores nomes da história do esporte brasileiro, Oscar Schmidt faleceu nesta sexta-feira (17/4). O ex-jogador de basquete passou mal em casa e foi levado às pressas para um hospital. Ao longo … [+1357 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Fotos: relembre carreira de Oscar Schmidt no esporte e na TV",
-            "description": "Recordisca de pontuação no basquete e ex-comentarista esportivo, Oscar Schmidt morreu aos 68 anos",
-            "url": "https://www.metropoles.com/celebridades/fotos-relembre-carreira-de-oscar-schmidt-no-esporte-e-na-tv",
-            "urlToImage": "https://i.metroimg.com/UYbhLzuKAKAkdM81XOhWPTRGWbjLAS-N3rRVYLEhVwc/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/alem-de-sucesso-nas-quadras-oscar-schmidt-tambem-atuou-como-comentarista-espostivo.jpg",
-            "publishedAt": "2026-04-17T19:50:07Z",
-            "content": "Considerado um dos maiores nomes do basquete brasileiro, Oscar Schmidt morreu nesta sexta-feira (17/4), aos 68 anos, em São Paulo, onde estava internado. Irmão do apresentador Tadeu Schmidt, ele se a… [+763 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Oscar Schmidt teve carreira contada em documentário. Saiba onde ver",
-            "description": "A lenda do basquete morreu aos 68 anos, nesta sexta-feira (17/4)",
-            "url": "https://www.metropoles.com/entretenimento/televisao/oscar-schmidt-teve-carreira-contada-em-documentario-saiba-onde-ver",
-            "urlToImage": "https://i.metroimg.com/S0RL25iOLO_S5vdwt_3-zXoDg6etRcP458lDJlXH844/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/sc-174.jpg",
-            "publishedAt": "2026-04-17T19:50:00Z",
-            "content": "Oscar Schmidt morreu nesta sexta-feira (17/4), aos 68 anos. A lenda do basquete e ídolo nacional ficou conhecido como Mão Santa e ganhou um documentário homônimo sobre a carreira e a vida pessoal.\r\nA… [+585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Morte de Oscar Schmidt vai impactar BBB 26? Entenda o que se sabe",
-            "description": "Apresentador do BBB 26 é irmão de Oscar Schmidt, ícone do basquete brasileiro que morreu nesta sexta-feira (17/4)",
-            "url": "https://www.metropoles.com/entretenimento/televisao/morte-de-oscar-schmidt-vai-impactar-bbb-26-entenda-o-que-se-sabe",
-            "urlToImage": "https://i.metroimg.com/phnnATs5zAVFbdI8HWZCNAbhnDv8yr3EBwn6xX4DQ-k/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt-tadeu-schmidt-1.jpg",
-            "publishedAt": "2026-04-17T19:48:57Z",
-            "content": "A morte do ídolo do basquete brasileiro Oscar Schmidt, que faleceu nesta sexta-feira (17/4), poderá impactar diretamente a reta final do BBB 26, apresentado por Tadeu Schmidt, irmão do atleta.\r\nFonte… [+1334 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Oscar Schmidt era parente de Tadeu Schmidt? Entenda a relação",
-            "description": "Oscar Schmidt morreu nesta sexta-feira (17/4), aos 68 anos, e o público passou a questionar um possível parentesco com Tadeu Schmidt",
-            "url": "https://www.metropoles.com/celebridades/oscar-schmidt-era-parente-de-tadeu-schmidt-entenda-a-relacao",
-            "urlToImage": "https://i.metroimg.com/SHpD9wKS3TvZddFxjCVRYHEXNaqBjTvHhSZDuxa9FiE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-tadeu.jpg",
-            "publishedAt": "2026-04-17T19:48:47Z",
-            "content": "A morte de Oscar Schmidt, nesta sexta-feira (17/4), gerou comoção nacional e reacendeu uma dúvida comum entre fãs: afinal, ele tinha algum grau de parentesco com o apresentador Tadeu Schmidt?A respos… [+805 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Morre Oscar Schmidt, lenda do basquete, aos 68 anos de idade",
-            "description": "No último dia 8de abril, ele foi eternizado no Hall da Fama do Comitê Olímpico do Brasil (COB), em premiação recebida pelo seu filho Felipe",
-            "url": "https://www.metropoles.com/esportes/morre-oscar-schmidt-lenda-do-basquete-aos-68-anos-de-idade",
-            "urlToImage": "https://i.metroimg.com/sfbeilSfdI9VdfUOWxluJ0y4AWEmXCliRStPLaAOLUI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/oscar-schmidt.jpg",
-            "publishedAt": "2026-04-17T19:48:30Z",
-            "content": "Morreu nesta sexta-feira (17/4), a lenda do basquete brasileiro, Oscar Schmidt. A causa da morte do ex-jogador, que tinha 68 anos, ainda não foi divulgada. O ex-atleta estava em casa quando passou ma… [+1860 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Diariodocentrodomundo.com.br"
-            },
-            "author": "Caique Lima",
-            "title": "Oscar Schmidt, lenda do basquete, morre aos 68 anos",
-            "description": "O ex-jogador de basquete Oscar Schmidt morreu nesta sexta (17) aos 68 anos, após passar mal em casa e ser atendido no Hospital Municipal Santa Ana (HMSA), em São Paulo. Ele havia sido levado às pressas para a instituição de saúde em Santana de Parnaíba, na Gr…",
-            "url": "https://www.diariodocentrodomundo.com.br/oscar-schmidt-lenda-do-basquete-morre-aos-68-anos/",
-            "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2026/04/whatsapp-image-2026-04-17-at-16-39-00.jpeg",
-            "publishedAt": "2026-04-17T19:44:46Z",
-            "content": "Oscar Schmidt. Foto: Reprodução\r\nO ex-jogador de basquete Oscar Schmidt morreu nesta sexta (17) aos 68 anos, após passar mal em casa e ser atendido no Hospital Municipal Santa Ana (HMSA), em São Paul… [+1946 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Esporte News Mundo",
-            "title": "Oscar Schmidt morre aos 68 anos e deixa legado histórico no basquete mundial",
-            "description": "Ídolo do basquete brasileiro, Oscar Schmidt morreu nesta sexta-feira (17), aos 68 anos, após longa luta contra um câncer no cérebro.",
-            "url": "https://www.terra.com.br/esportes/basquete/oscar-schmidt-morre-aos-68-anos-e-deixa-legado-historico-no-basquete-mundial,c1dfac8a67cbce4dd5a21642103471ffw2c9a955.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/1663070565-foto-1280-x-720-px.png",
-            "publishedAt": "2026-04-17T19:36:05Z",
-            "content": "O basquete brasileiro se despede de uma de suas maiores referências. Nesta sexta-feira, 17 de abril de 2026, morreu Oscar Schmidt, aos 68 anos. Conhecido como \"Mão Santa\", o ex-jogador lutava desde 2… [+1570 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Perfil Brasil",
-            "title": "Oscar Schmidt: quem foi a lenda do basquete que morreu aos 68 anos?",
-            "description": "O ex-jogador passou mal na manhã desta sexta-feira (17) e foi levado às pressas para hospital em São Paulo",
-            "url": "https://www.terra.com.br/noticias/oscar-schmidt-quem-foi-a-lenda-do-basquete-que-morreu-aos-68-anos,f719a1e2de86501d784847e58d303ec40gule5ss.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/1701704673-abre-perfil-brasil-2026-04-17t161431623.jpg",
-            "publishedAt": "2026-04-17T19:35:48Z",
-            "content": "A lenda do basquete, Oscar Schmidt, faleceu após ser internado nesta sexta-feira (17). Ele estava lutando contra problemas de saúde nos últimos anos e vinha se recuperando de uma cirurgia recente. As… [+2615 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ig.com.br"
-            },
-            "author": "Gabriel de Oliveira, Gabriel de Oliveira",
-            "title": "Lenda do basquete brasileiro, Oscar Schmidt morre aos 68 anos",
-            "description": "Irmão de Tadeu Schmidt e maior pontuador da história olímpica, ex-atleta enfrentava câncer no cérebro desde 2011 e marcou gerações com recordes",
-            "url": "https://gente.ig.com.br/colunas/gabriel-de-oliveira/2026-04-17/lenda-do-basquete-brasileiro--oscar-schmidt-morre-aos-68-anos.html",
-            "urlToImage": "https://i0.statig.com.br/bancodeimagens/1h/le/nf/1hlenf45k2u7qc7ukxbw2x8lp.jpg",
-            "publishedAt": "2026-04-17T19:34:34Z",
-            "content": "Oscar Schmidt morreu nesta sexta-feira (17), aos 68 anos. Considerado um dos maiores nomes da história do basquete, o ex-jogador ficou conhecido mundialmente pelo apelido Mão Santa e por sua impressi… [+1420 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Pedro Cardoso",
-            "title": "Phoenix Suns x Golden State Warriors: horário e onde assistir",
-            "description": "A equipe que vencer hoje, 17, vai avançar para enfrentar o OKC nos playoffs; Brasileiro Gui Santos deve começar jogando",
-            "url": "https://veja.abril.com.br/esporte/phoenix-suns-x-golden-state-warriors-horario-e-onde-assistir/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2244524100.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-17T19:30:43Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Mortgage Matchup Center, em Phoenix, vai ser o palco da partida entre Suns e Warriors nesta sexta, 17 (Kelsey Grant/Getty Images)\r\nCon… [+2176 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Equipe de Oscar Schmidt se manifesta após internação do ex-atleta",
-            "description": "A assessoria do ídolo do basquete brasileiro Oscar Schmidt confirmou, através de nota, nesta sexta-feira (17/4), o atendimento médico do ex-jogador",
-            "url": "https://www.metropoles.com/colunas/fabia-oliveira/equipe-de-oscar-schmidt-se-manifesta-apos-internacao-do-ex-atleta",
-            "urlToImage": "https://i.metroimg.com/S0RL25iOLO_S5vdwt_3-zXoDg6etRcP458lDJlXH844/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/sc-174.jpg",
-            "publishedAt": "2026-04-17T19:26:07Z",
-            "content": "A notícia de que Oscar Schmidt foi internado às pressas, nesta sexta-feira (17/4), após se sentir mal pegou os fãs do ídolo do basquete brasileiro de surpresa. Em nota enviada à imprensa, a equipe do… [+1063 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Esporte News Mundo",
-            "title": "Oscar Schmidt é hospitalizado após mal-estar em São Paulo",
-            "description": "O ex-jogador de basquete Oscar Schmidt foi levado a um hospital em São Paulo nesta sexta-feira (17) após apresentar um mal-estar. A informação foi confirmada pela CNN Brasil, que ouviu a assessoria de imprensa do ex-atleta. Oscar foi encaminhado ao Hospital e…",
-            "url": "https://www.terra.com.br/esportes/basquete/oscar-schmidt-e-hospitalizado-apos-mal-estar-em-sao-paulo,c1aec08925267d01d71ed1a8492e709c15zibetj.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/385693110-img1942.jpeg",
-            "publishedAt": "2026-04-17T19:00:22Z",
-            "content": "O ex-jogador de basquete Oscar Schmidt foi levado a um hospital em São Paulo nesta sexta-feira (17) após apresentar um mal-estar. A informação foi confirmada pela CNN Brasil, que ouviu a assessoria d… [+2041 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Natalia Tiemi Hanada",
-            "title": "Ex-jogador de basquete Oscar Schmidt é levado para hospital após passar mal",
-            "description": "Irmão do apresentador Tadeu Schmidt anunciou em 2022 ter vencido batalha contra o câncer",
-            "url": "https://veja.abril.com.br/esporte/ex-jogador-de-basquete-oscar-schmidt-e-levado-para-hospital-apos-passar-mal/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-1187789632.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-17T18:53:26Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Ex-jogador de basquete Oscar Schmidt (Buda Mendes/Getty Images)\r\nContinua após publicidade\r\n<ul><li>O ídolo do basquete Oscar Schmidt,… [+1439 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": "Carolina Alberti",
-            "title": null,
-            "description": "A lenda do basquete Oscar Oscar Schmidt apresentou um mal-estar, precisou de atendimento médico e foi encaminhado para o Hospital e Maternidade Municipal Santa Ana (HMSA), em Santana do Parnaíba, em São Paulo.O que aconteceuAinda não há informações sob",
-            "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/04/17/oscar-schmidt-basquete.ghtm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/esporte/cb/2024/05/28/oscar-schmidt-em-entrevista-ao-alt-tabet-1716903404775_v2_615x300.jpg",
-            "publishedAt": "2026-04-17T18:39:53Z",
-            "content": "O \"Mão Santa\" foi diagnosticado com câncer no cérebro em 2011 e, em 2022, anunciou ter vencido a \"batalha\" contra a doença. \"Ter curado o câncer para mim foi um negócio de outro planeta\", afirmou em … [+599 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ig.com.br"
-            },
-            "author": "Donizetti Tobias, Donizetti Tobias",
-            "title": "Lenda do basquete, Oscar Schmidt tem mal-estar e é hospitalizado",
-            "description": "Maior cestinha da história dos Jogos Olímpicos e ícone do esporte reconhecido mundialmente, \"Mão Santa\" se recuperava de uma cirurgia recentemente",
-            "url": "https://esporte.ig.com.br/basquete/2026-04-17/lenda-do-basquete--oscar-schmidt-tem-mal-estar-e-e-hospitalizado.html",
-            "urlToImage": "https://i0.statig.com.br/bancodeimagens/da/ts/5b/dats5bbjdu9ts720hpo0ecqwr.jpg",
-            "publishedAt": "2026-04-17T18:25:19Z",
-            "content": "Lenda do basquete mundial, o brasileiro Oscar Schmitdt preocupou os fãs nesta sexta-feira (17). O ídolo do esporte apresentou um mal-estar e está recebendo atendimento médico, enquanto se recupera de… [+815 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Oscar Schmidt é internado em São Paulo após sentir mal-estar",
-            "description": "O ídolo do basquete brasileiro recebeu atendimento médico nesta sexta-feira (17/4)",
-            "url": "https://www.metropoles.com/esportes/oscar-schmidt-e-internado-em-sao-paulo-apos-sentir-mal-estar",
-            "urlToImage": "https://i.metroimg.com/TkwDDd70jl-19Sp_r3FvObOGW9IHKVgE_f5Sl7ugYk8/w:1200/q:90/f:webp/plain/https://images.metroimg.com/6acea9f1-oscar-schmidt.jpg",
-            "publishedAt": "2026-04-17T18:16:45Z",
-            "content": "Oscar Schmidt, o maior nome da história do basquete brasileiro, foi hospitalizado em São Paulo nesta sexta-feira (17/4). O ex-atleta de 68 anos precisou de cuidados médicos após passar mal.\r\nO ex-jog… [+1050 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Reuters",
-            "title": "Rivalidade entre irmãos é foco da segunda temporada de \"A Dona da Bola\"",
-            "description": "A ‌rivalidade entre irmãos atinge novos níveis na segunda temporada da comédia esportiva da ...",
-            "url": "https://www.terra.com.br/diversao/rivalidade-entre-irmaos-e-foco-da-segunda-temporada-de-a-dona-da-bola,aa92820fec4a99a76c93759c2397392bzmonar7z.html",
-            "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-            "publishedAt": "2026-04-17T17:00:13Z",
-            "content": "A ‌rivalidade entre irmãos atinge novos níveis na segunda temporada da comédia esportiva da Netflix \"Dona da Bola\", quando a personagem de Kate Hudson, Isla Gordon, enfrenta uma nova luta pelo poder … [+1745 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Famosos e Celebridades",
-            "title": "Bianca Andrade faz recepção especial para o filho após viagem com o pai",
-            "description": "A influenciadora Bianca Andrade, conhecida como Boca Rosa, emocionou os seguidores ao mostrar o ...",
-            "url": "https://www.terra.com.br/diversao/gente/bianca-andrade-faz-recepcao-especial-para-o-filho-apos-viagem-com-o-pai,d406b19d001cf1c1fce279751e762fe25h1zwcrm.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/692134966-67122224418597317626037643552323756216078787n.jpg",
-            "publishedAt": "2026-04-17T13:56:56Z",
-            "content": "A influenciadora Bianca Andrade, conhecida como Boca Rosa, emocionou os seguidores ao mostrar o reencontro com o filho, Cris.\r\nO menino, de quatro anos, voltou de uma viagem com o pai, Fred Bruno, e … [+1691 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "João Bidu",
-            "title": "Vôlei, futebol ou mais? Descubra o esporte ideal para cada signo",
-            "description": "Os astros influenciam muito mais do que o seu humor; eles ditam como seu corpo prefere se movimentar. Encontre a modalidade perfeita para o seu mapa astral",
-            "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/volei-futebol-ou-mais-descubra-o-esporte-ideal-para-cada-signo,7e866df1eb9d8f368f7e78a53eba59c8wo736zk8.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/113387663-1776371915.jpg",
-            "publishedAt": "2026-04-17T11:02:48Z",
-            "content": "A Astrologia é uma ferramenta milenar poderosa. Ela nos ajuda a entender a nossa personalidade e as nossas inclinações.\r\nMas você sabia que os astros também influenciam o seu desempenho físico? Pois … [+3129 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Esporte News Mundo",
-            "title": "Cruzeiro vence Fortaleza com arrancada no fim e garante clássico contra o Minas nos playoffs do NBB",
-            "description": "O Cruzeiro derrotou o Fortaleza por 86 a 77 após dominar o último quarto, com parcial decisiva de 25 a 12.",
-            "url": "https://www.terra.com.br/esportes/basquete/cruzeiro-vence-fortaleza-com-arrancada-no-fim-e-garante-classico-contra-o-minas-nos-playoffs-do-nbb,10d5572db6e77b73ee64fe4ba58e7caahpwtj6j8.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/166430227-img4463.jpeg",
-            "publishedAt": "2026-04-17T01:17:58Z",
-            "content": "O Cruzeiro Basquete fez valer o mando de quadra nesta quinta-feira (16) ao vencer o Fortaleza Basquete Cearense por 86 a 77 no Ginásio Dona Salomé, em duelo válido pelo NBB. A vitória veio com drama,… [+1371 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Esporte News Mundo",
-            "title": "Rômulo Mendonça abre o jogo sobre narrar a Copa do Mundo 2026",
-            "description": "Narrador afirma que NBA Finals é prioridade e admite dificuldade para trabalhar na Copa do Mundo 2026; entenda os motivos",
-            "url": "https://www.terra.com.br/esportes/basquete/nba/romulo-mendonca-abre-o-jogo-sobre-narrar-a-copa-do-mundo-2026,24283321b801abd5425cf1330efc1d3002x6qxt7.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/16/31406567-romulo-mendonca-prime-video.jpg",
-            "publishedAt": "2026-04-16T22:27:03Z",
-            "content": "Apesar de ser referência na narração esportiva quando o assunto é o basquete, Rômulo Mendonça vem conquistando um novo público graças às recentes transmissões de futebol com sua voz no Prime Video. L… [+2265 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Observador.pt"
-            },
-            "author": "Agência Lusa",
-            "title": "Philadelphia 76ers defrontam Celtics nos play-offs na NBA",
-            "description": "A equipa de Filadélfia chega aos play-offs pela oitava vez nos últimos nove anos. Para os Magic, ainda há uma última hipótese de garantir a presença nos play-offs pela terceira temporada seguida.",
-            "url": "https://observador.pt/2026/04/16/philadelphia-76ers-passam-magic-e-defrontam-celtics-nos-play-offs-na-nba/",
-            "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F16112024%2F46789984.jpg?layer=obstop:T",
-            "publishedAt": "2026-04-16T21:06:39Z",
-            "content": "Os Philadelphia 76ers vão defrontar na primeira ronda dos play-offs os Boston Celtics, do português Neemias Queta, depois de terem vencido os Orlando Magic, por 109-97, na primeira ronda do play-in.\r… [+1490 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Natalia Tiemi Hanada",
-            "title": "Corrida para MVP: NBA toma decisão sobre elegibilidade de Doncic e Cunningham",
-            "description": "Atletas disputaram menos jogos que regra para eleição de jogador mais valioso estipula",
-            "url": "https://veja.abril.com.br/esporte/corrida-para-mvp-nba-toma-decisao-sobre-elegibilidade-de-doncic-e-cunningham/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/capa-site.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-16T18:01:47Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Luka Doncic do Los Angeles Lakers e Cade Cunningham do Detroit Pistons (Cooper Neill / David Jensen/Getty Images)\r\nContinua após publi… [+2398 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Jogada10",
-            "title": "MP denuncia ex-dirigentes do Corinthians por desvio milionário e cobra ressarcimento",
-            "description": "Promotoria aponta repasses sem comprovação a ex-chefe da segurança e pede bloqueio de bens dos envolvidos",
-            "url": "https://www.terra.com.br/esportes/corinthians/mp-denuncia-ex-dirigentes-do-corinthians-por-desvio-milionario-e-cobra-ressarcimento,f25f009e7403c1ad1edbfc6ce775800dwohptrqp.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/16/2010951906-roberto-gavioli-ex-gerente-financeiro-do-corinthians-610x400.jpg",
-            "publishedAt": "2026-04-16T14:42:46Z",
-            "content": "O Ministério Público de São Paulo apresentou, nesta quinta-feira (16/4), denúncia contra três ex-dirigentes do Corinthians e um ex-funcionário do clube por irregularidades ocorridas entre 2018 e 2023… [+4025 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Estadão Conteúdo",
-            "title": "NBA: Curry e Gui Santos brilham, Warriors viram contra os Clippers e avançam no play-in",
-            "description": "Em uma noite épica, com direito a uma incrível virada no final, o Golden State Warriors ...",
-            "url": "https://www.terra.com.br/esportes/basquete/nba-curry-e-gui-santos-brilham-warriors-viram-contra-os-clippers-e-avancam-no-play-in,b89f7f2f7a973043f68ce92efe7dd375mm2z5rs7.html",
-            "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-            "publishedAt": "2026-04-16T12:41:52Z",
-            "content": "Em uma noite épica, com direito a uma incrível virada no final, o Golden State Warriors sacramentou uma vitória sensacional sobre o Los Angeles Clippers na noite desta quarta-feira, no Intuit Dome, p… [+1708 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Por que \"Six Seven\" está em todo lugar? Entenda o meme do momento",
-            "description": "O fenômeno \"Six Seven\" une rimas de rap, basquete e um easter egg do Google para dominar o vocabulário da Geração Alpha",
-            "url": "https://www.metropoles.com/vida-e-estilo/por-que-six-seven-esta-em-todo-lugar-entenda-o-meme-do-momento",
-            "urlToImage": "https://i.metroimg.com/nEG1ylxjzQY8lBcuEDSI-Zq76s2_Npg2lPFC18HJ85c/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/pi7_tool_x-25.jpg",
-            "publishedAt": "2026-04-16T12:06:38Z",
-            "content": "Se você ouviu um grupo de crianças repetindo “six, seven” enquanto fazem movimentos rítmicos com as mãos, você presenciou um dos maiores fenômenos de brain rot do ano. O meme, que parece não ter sent… [+4741 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": "Nathan Raileanu",
-            "title": null,
-            "description": "O Flamengo fechou nesta terça a sua campanha na fase de classificação do NBB e se garantiu no top 5. Agora ele muda o chip e já neste fim de semana disputa o Final 4 da BCLA (Champions League das Américas), podendo conquistar o seu primeiro título na t",
-            "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/04/16/flamengo-tenta-bicampeonato-continental-apos-campanha-oscilante-no-nbb.ghtm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/esporte/ce/2026/04/15/flamengo-fechou-a-1fase-do-nbb-e-agora-busca-o-bi-consecutivo-da-bcla-1776271867341_v2_615x300.jpg",
-            "publishedAt": "2026-04-16T11:11:38Z",
-            "content": "Essa primeira oscilação ainda teve uma sequência de quatro derrotas, sendo uma delas por 84 a 53 para o Pato Basquete, time que não conseguiu vaga para os playoffs.\r\nAinda no começo do ano, o time co… [+910 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Com show de Gui Santos e Curry, Warriors vencem Clippers no play-in",
-            "description": "Em jogo com emoção, Stephen Curry e Gui Santos brilharam em vitória de virada do Golden State Warriors venceu o Los Angeles Clippers",
-            "url": "https://www.metropoles.com/esportes/com-show-de-gui-santos-e-curry-warriors-vencem-clippers-no-play-in",
-            "urlToImage": "https://i.metroimg.com/LbAkiJ32rQlPzJX5iGXQrNQEBb2emYiYZ4wj2Q4MZSE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/golden-state-warriors-nba-curry-gui-santos-play-in.jpg",
-            "publishedAt": "2026-04-16T11:07:03Z",
-            "content": "Em jogo emocionante e brilho de Gui Santos e Stephen Curry, o Golden State Warriors venceu o Los Angeles Clippers por 126 x 121, de virada, na primeira rodada do play-in da NBA. Com o resultado, eles… [+615 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Philadelphia 76ers vence Magic e se classifica para os playoffs da NBA",
-            "description": "Com a vaga, os Sixers enfrentarão o Boston Celitcs, que terminou a temporada regular na 2ª colocação da conferência leste",
-            "url": "https://www.metropoles.com/esportes/philadelphia-76ers-vence-magic-e-se-classifica-para-os-playoffs-da-nba",
-            "urlToImage": "https://i.metroimg.com/yIRXQbL0qj5upFfJ--c8mPFsg7c4AhCw8EIhv4m0JCM/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/philadelphia-76ers-x-orlando-magic-nba.jpg",
-            "publishedAt": "2026-04-16T02:50:40Z",
-            "content": "O Philadelphia 76ers venceu o Orlando Magic por 109 x 97, na noite desta quarta-feira (15/4), na Xfinity Mobile Arena, pelo play-in da NBA. Classificado para os playoffs, os Sixers enfrentarão o Bost… [+747 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Saiba onde assistir o jogo entre Clippers x Warriors no play-in da NBA",
-            "description": "Quem ganhar o duelo, ainda terá mais um jogo para decidir a sua classificação para os playoffs. Já quem perder, está eliminado da temporada",
-            "url": "https://www.metropoles.com/esportes/saiba-onde-assistir-o-jogo-entre-clippers-x-warriors-no-play-in-da-nba",
-            "urlToImage": "https://i.metroimg.com/H23jKEnPOH9_NEqRmZkYCL09XLfp6imH-0F97qAepS4/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/11/20121035/Mike-EhrmannGetty-Images.jpg",
-            "publishedAt": "2026-04-15T22:55:52Z",
-            "content": "Los Angeles Clippers e Golden State Warriors se enfrentam na noite desta quarta-feira (15/4), às 23h (horário de Brasília), no Intuit Dome, na Califórnia. A partida é válida pelo play-in da conferênc… [+979 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Após vitória, Tiago Splitter conquista feito inédito na NBA; confira",
-            "description": "O ex-jogador brasileiro, que comanda o Portalnd Trail Blazers, se tornou o primeiro técnico do Brasil a ir aos playoffs da NBA",
-            "url": "https://www.metropoles.com/esportes/apos-vitoria-tiago-splitter-conquista-feito-inedito-na-nba-confira",
-            "urlToImage": "https://i.metroimg.com/7dHi2bAdSlQFRTDnAGBB1D0SszsrihDY__ohyyusJIM/w:1200/q:90/f:webp/plain/https://images.metroimg.com/5def0940-tiago-splitter-nba-1200x800.jpg",
-            "publishedAt": "2026-04-15T21:52:23Z",
-            "content": "O brasileiro Tiago Splitter fez história mais uma vez na noite dessa terça-feira (14/4). No comando do Portalnd Trail Blazers ele venceu o Phoenix Suns por 114 x 110 e se classificou após vencer o pl… [+608 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": "Marcella Duarte",
-            "title": null,
-            "description": "A Amazon trouxe ao Brasil a edição \"NBA\" (National Basketball Association) do Echo Dot, seu alto-falante inteligente mais vendido. Com visual de bola de basquete, aproveitando o formato esférico do dispositivo, ele chega por aqui mirando nos",
-            "url": "https://www.uol.com.br/guia-de-compras/ultimas-noticias/2026/04/15/alexa-bola-de-basquete-amazon-lanca-echo-dot-edicao-especial-nba.ghtm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/guia-de-compras/32/2026/04/15/echo-dot-nba-na-mesa-1776262069201_v2_615x300.jpg",
-            "publishedAt": "2026-04-15T19:39:47Z",
-            "content": "Casa inteligente. Como todos os produtos Echo, ele também serve para controlar dispositivos da casa (lâmpadas, fechaduras, ar-condicionado, robô aspirador etc), seja presencialmente ou à distância, d… [+734 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Pedro Cardoso",
-            "title": "Clippers x Warriors no play-in da NBA hoje: horário, onde assistir e odds",
-            "description": "Vencedor do confronto vai enfrentar o Phoenix Suns na próxima sexta, 17, valendo uma vaga nos playoffs; o perdedor será eliminado",
-            "url": "https://veja.abril.com.br/esporte/clippers-x-warriors-no-play-in-da-nba-hoje-horario-onde-assistir-e-odds/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2270640457.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-15T19:30:01Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Darius Garland e Stephen Curry em disputa de bola durante a última partida entre Clippers e Warriors, no domingo, 12 (Eric Thayer / Lo… [+2508 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Natalia Tiemi Hanada",
-            "title": "Quem é o primeiro técnico brasileiro classificado para os playoffs da NBA?",
-            "description": "Tiago Splitter assumiu Portland Trail Blazers no meio da temporada e enfrenta ex-time na primeira rodada do mata-mata",
-            "url": "https://veja.abril.com.br/esporte/quem-e-o-primeiro-tecnico-brasileiro-classificado-para-os-playoffs-da-nba/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2271392236.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-15T12:12:54Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Tiago Splitter, técnico do Portland Trail Blazers no play-in da NBA 2025/26 (Christian Petersen/Getty Images)\r\nContinua após publicida… [+3933 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Mulher de Henrique, Snoop Dogg: veja quem ficou na cadeia de Ramagem",
-            "description": "Ex-deputado permanece preso por questões migratórias no Condado de Orange, na Flórida (EUA), desde segunda-feira (13/4)",
-            "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/mulher-de-henrique-snoop-dogg-veja-quem-ficou-na-cadeia-de-ramagem",
-            "urlToImage": "https://i.metroimg.com/fiw_78awOhPKmPdJjhW-qDL9ATPJEyPWBTPDGbISQlo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/snoop-dogg-ramagem.jpg",
-            "publishedAt": "2026-04-15T06:35:36Z",
-            "content": "O ex-deputado federal Alexandre Ramagempermanece detido em uma cela separada dos demais presos no centro de detenção do condado de Orange, em Orlando, nos Estados Unidos, após ser preso na segunda-fe… [+3010 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "NBB: Brasília Basquete é derrotado em casa pelo líder Franca",
-            "description": "Com o resultado, a equipe perdeu a invencibilidade de 13 jogos em seus domínios, e agora buscará a vitória contra Bauru para garantir o G4",
-            "url": "https://www.metropoles.com/esportes/nbb-brasilia-basquete-e-derrotado-em-casa-pelo-lider-franca",
-            "urlToImage": "https://i.metroimg.com/IAm5t0SPZUXuc2XJBNb8fqtFeDVoP619Lm8A3OtJZpc/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/brasilia-basquete-franca-derrota.jpg",
-            "publishedAt": "2026-04-15T01:26:14Z",
-            "content": "O Brasília Basquete perdeu a série de 13 jogos invictos em casa, com a derrota para Franca por 83 x 78 no Novo Basquete Brasil (NBB), em jogo realizado nesta terça-feira (14/4), na Arena BRB Nilson N… [+2134 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "NBB: Flamengo vence o Vasco e decreta rebaixamento do rival na liga",
-            "description": "Em posições distintas na tabela de classificação do NBB, o Flamengo Basquete venceu o Vasco Basquete por 95 x 75 nesta terça-feira (14/4)",
-            "url": "https://www.metropoles.com/esportes/nbb-flamengo-vence-o-vasco-e-decreta-rebaixamento-do-rival-na-liga",
-            "urlToImage": "https://i.metroimg.com/GfPzsqzMeVUcanE74fCwZmrB4MmoylvASZTxVxFBjDk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/flamengo-basquete.jpg",
-            "publishedAt": "2026-04-14T23:47:34Z",
-            "content": "O Vasco Basquete está rebaixado no Novo Basquete Brasil (NBB). O cruzmaltino perdeu para o Flamengo nesta terça-feira (14/4) por 95 x 75, e agora não consegue mais evitar a queda na liga. Para revert… [+1138 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Observador.pt"
-            },
-            "author": "Bruno Roseiro",
-            "title": "Há sempre um vermelho em cada caminho que Lamine abre",
-            "description": "Barcelona empatou tudo em pouco mais de 20 minutos, ficou perto da reviravolta mas, quando perdia gás depois de um jogo gigante, viu Eric García ser expulso e Atl. Madrid segurar passagem (1-2, 3-2).",
-            "url": "https://observador.pt/2026/04/14/ha-sempre-um-vermelho-em-cada-caminho-que-lamine-abre-barcelona-vence-em-madrid-mas-atletico-segue-para-as-meias-da-champions/",
-            "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1500%3A842%3Anowe%3A0%3A158%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F04%2F14220428%2Flamine-yamal-barcelona-atl-madrid.jpg?layer=obstop:T",
-            "publishedAt": "2026-04-14T21:09:01Z",
-            "content": "Um minuto, dois momentos, a história do jogo condensada num livro com um par de segundos mas que estava tudo menos no bolso de quem ganhou a primeira mão. Depois do triunfo do Barcelona em Madrid na … [+9827 chars]"
-        },
-        {
-            "source": {
-                "id": "globo",
-                "name": "Globo"
-            },
-            "author": null,
-            "title": "Ocean Club integra tendência de clubes com piscina de ondas",
-            "description": "Empreendimento em pré-lançamento reúne praia artificial, piscina de ondas e mais de 20 modalidades esportivas em um único espaço. O projeto combina tecnologia internacional e infraestrutura de lazer para atender diferentes perfis de público.",
-            "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/04/14/ocean-club-integra-tendencia-de-clubes-com-piscina-de-ondas-1.ghtml",
-            "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
-            "publishedAt": "2026-04-14T20:49:07Z",
-            "content": "O projeto Ocean Club Alphaville, em fase de pré-lançamento, propõe a implantação de um clube com estrutura voltada ao lazer, esporte e convivência na região de Alphaville. O empreendimento reúne pisc… [+4049 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Play-in da NBA começa nesta terça-feira (14/4); veja confrontos",
-            "description": "O Play-in, repescagem da NBA, começa nesta terça-feira (14/4) com dois jogos, sendo um da Conferência Oeste e outro da Leste",
-            "url": "https://www.metropoles.com/esportes/play-in-da-nba-comeca-nesta-terca-feira-14-4-veja-confrontos",
-            "urlToImage": "https://i.metroimg.com/Mqw5TmSEeJwJMEN6v2L6aCMhaz2tfA_gImcpdThKoF0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/10/30181236/LaMello2.jpg",
-            "publishedAt": "2026-04-14T18:18:31Z",
-            "content": "O Play-in, repescagem da NBA, começa nesta terça-feira (14/4) com dois jogos, sendo um da Cconferência Oeste e outro da Leste. Estes serão os primeiros embates desta fase da competição, que terá aind… [+933 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Novato iguala marca histórica de Michael Jordan na NBA; confira",
-            "description": "Cooper Flagg liderou o time em quatro estatísticas principais e brilhou em uma temporada abaixo do esperado do Texas",
-            "url": "https://www.metropoles.com/esportes/novato-iguala-marca-historica-de-michael-jordan-na-nba-confira",
-            "urlToImage": "https://i.metroimg.com/wjwX9PT27NhDBWjJQ4SmwJ_ecbV96zoRhGjhCkewB5k/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/07/11121403/cooper-flagg-1.jpg",
-            "publishedAt": "2026-04-14T15:59:22Z",
-            "content": "O novato Cooper Flagg encerrou sua temporada de estreia na NBA atingindo um patamar que, até então, era exclusividade de Michael Jordan. O ala do Dallas Mavericks finalizou a fase regular como o líde… [+854 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "The Conversation",
-            "title": "\"Está bem debaixo de seu nariz!\": por que algumas pessoas não conseguem achar coisas que estão a plena vista",
-            "description": "Seu cérebro não está apenas olhando - ele está prevendo. É por isso que você pode ficar olhando fixamente para um objeto e, mesmo assim, não vê-lo",
-            "url": "https://www.terra.com.br/noticias/esta-bem-debaixo-de-seu-nariz-por-que-algumas-pessoas-nao-conseguem-achar-coisas-que-estao-a-plena-vista,7aeece7ac09ac43495b5196dab48164btb99frd4.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/14/1014186337-file-20260322-57-a82hqy.jpg",
-            "publishedAt": "2026-04-14T15:56:53Z",
-            "content": "Muitas famílias vão reconhecer essa conversa tão comum. Uma pessoa insiste que um objeto está sumido: impossível de encontrar, apesar dela descrever ter feito uma busca minuciosa e altamente competen… [+5802 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Nikola Jokic encerra temporada regular da NBA com feito inédito; veja",
-            "description": "O pivô do Denver Nuggets, Nikola Jokic, se tornou o primeiro jogador na história da NBA a liderar a liga em rebotes e assistências por jogo",
-            "url": "https://www.metropoles.com/esportes/nikola-jokic-encerra-temporada-regular-da-nba-com-feito-inedito-veja",
-            "urlToImage": "https://i.metroimg.com/UR8snOlxDHFSIWGTIviuZkSBhYK8XheIeCt2IdWgakA/w:1200/q:90/f:webp/plain/https://images.metroimg.com/b7e46a06-nikola-jokic-1200x800.jpg",
-            "publishedAt": "2026-04-14T14:45:52Z",
-            "content": "O pivô do Denver Nuggets, Nikola Jokic, se tornou o primeiro jogador na história da NBA a liderar a liga em rebotes e assistências por jogo desde 1969-70, quando os líderes começaram a ser determinad… [+637 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Pedro Cardoso",
-            "title": "Play-in da NBA começa hoje: saiba partidas, horários e onde assistir",
-            "description": "Oito equipes disputam quatro vagas nos playoffs; Rodada final será disputada na sexta-feira, 17",
-            "url": "https://veja.abril.com.br/esporte/play-in-da-nba-comeca-hoje-saiba-partidas-horarios-e-onde-assistir/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2269662093.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-14T13:58:24Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90NBA (Nic Antaya/Getty Images)\r\nContinua após publicidade\r\n<ul><li>A NBA dá a largada no SoFi Play-In Tournament, definindo os últimos … [+2116 chars]"
-        },
-        {
-            "source": {
-                "id": "info-money",
-                "name": "InfoMoney"
-            },
-            "author": "camillebocanegra",
-            "title": "XP será patrocinadora do UTS Rio 2026 e clientes XP terão pré-venda em 17 de abril",
-            "description": "Clientes com Cartão XP terão acesso antecipado à venda de ingressos para estreia do torneio de tênis no Rio de Janeiro, em julho, com 20% de desconto \nThe post XP será patrocinadora do UTS Rio 2026 e clientes XP terão pré-venda em 17 de abril appeared first o…",
-            "url": "https://www.infomoney.com.br/esportes/xp-sera-patrocinadora-do-uts-rio-2026-e-clientes-xp-terao-pre-venda-em-17-de-abril/",
-            "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2026/04/uts_xp.png?quality=70",
-            "publishedAt": "2026-04-14T13:29:00Z",
-            "content": "A XP anunciou nesta terça-feira (14) seu patrocínio ao UTS Rio 2026, etapa brasileira do circuito internacional Ultimate Tennis Showdown (UTS), que faz sua estreia na América do Sul.\r\nO evento será r… [+1869 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": "Nathan Raileanu",
-            "title": null,
-            "description": "O Botafogo conseguiu nesta segunda uma vitória no tribunal que manteve o time no NBB e garantiu a classificação para os playoffs.O time havia sido punido em março com a perda de 74 pontos por escalação irregular do pivô Augusto Alcassa, hoje no Flumine",
-            "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/04/14/botafogo-celebra-fim-de-punicao-no-nbb-caso-pode-mudar-regulamento.ghtm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/esporte/02/2026/04/13/botafogo-conseguiu-a-classificacao-para-os-play-offs-apos-recurso-ser-aceito-1776127593189_v2_615x300.jpg",
-            "publishedAt": "2026-04-14T11:05:06Z",
-            "content": "Uma penalidade como essa de 74 pontos, que tiraria o Botafogo da principal competição do basquete masculino brasileiro, não é razoável diante das alegações que evidentemente não encontravam na visão … [+1039 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Brasília Basquete enfrenta líder Franca em busca do top 3 no NBB",
-            "description": "A equipe busca a vitória nos dois últimos jogos para garantir a vaga entre as três melhores campanhas na competição",
-            "url": "https://www.metropoles.com/esportes/brasilia-basquete-enfrenta-lider-franca-em-busca-do-top-3-no-nbb",
-            "urlToImage": "https://i.metroimg.com/M3StErQB54hD9sQQ4pQfHwbhwcT41aZsdfkkzyiEaM0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/brasilia-basquete-final-de-temporada.jpg",
-            "publishedAt": "2026-04-14T05:00:10Z",
-            "content": "O Brasília Basquete entra em quadra nesta terça-feira (14/4) para um confronto decisivo contra Franca, time paulista que lidera o Novo Basquete Brasil (NBB). \r\nO jogo acontece no Ginásio Nilson Nelso… [+816 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Botafogo reverte punição no STJD e confirma vaga nos playoffs do NBB",
-            "description": "Com o resultado, o Botafogo garante vaga nos playoffs do NBB e evita o rebaixamento após recuperar 74 pontos na tabela",
-            "url": "https://www.metropoles.com/esportes/botafogo-reverte-punicao-no-stjd-e-confirma-vaga-nos-playoffs-do-nbb",
-            "urlToImage": "https://i.metroimg.com/a1z2x4mK1BNXE7ths64IRhdDHLMbRQeGX3CDRKmCgcc/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/botafogo-nbb.jpg",
-            "publishedAt": "2026-04-14T00:08:34Z",
-            "content": "O Superior Tribunal de Justiça Desportiva (STJD) da Liga Nacional de Basquete (LNB) decidiu, na noite desta segunda-feira (13/4), a favor do Botafogo. Pelo placar de 7 x 1, a entidade anulou a pena q… [+901 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abril.com.br"
-            },
-            "author": "Natalia Tiemi Hanada",
-            "title": "Pós-temporada da NBA: confira os confrontos de play-in e playoffs da temporada 2025/26",
-            "description": "Repescagem começa nesta terça, 14, e mata-mata de disputas de melhor de sete jogos a partir do dia 18",
-            "url": "https://veja.abril.com.br/esporte/pos-temporada-da-nba-confira-os-confrontos-de-play-in-e-playoffs-da-temporada-2025-26/",
-            "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2221584577.jpg?quality=70&strip=info&resize=1080,565&crop=1",
-            "publishedAt": "2026-04-13T19:12:18Z",
-            "content": "Pular para o conteúdo\r\nAniversário da Abril: VEJA por apenas 9,90Troféu do título da NBA OKC é atual campeão (Matthew Stockman/Getty Images)\r\nContinua após publicidade\r\n<ul><li>A pós-temporada da NBA… [+4670 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Play-in da NBA começa terça com duelos decisivos; veja e aposte",
-            "description": "Play-in reúne oito equipes em duelos diretos valendo vaga nos playoffs; entenda o formato e veja quem chega como favorito para apostar",
-            "url": "https://www.metropoles.com/apostas/play-in-da-nba-comeca-terca-com-duelos-decisivos-veja-e-aposte",
-            "urlToImage": "https://i.metroimg.com/_ZJpP4R5IH7KXUPOhXbqPbZw7aZVdgo5xhZLU1hq8E8/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/nba-hoje-1.jpg",
-            "publishedAt": "2026-04-13T18:54:06Z",
-            "content": "A corrida final pelos playoffs da NBA começa nesta terça (14/4), com o play-in colocando oito times em jogos decisivos por quatro vagas. Confira aqui todos os confrontos, como funciona o formato e as… [+4044 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Portal EdiCase",
-            "title": "Netflix: lançamentos da semana entre 13 e 19 de abril de 2026",
-            "description": "Produções que exploram conflitos, sentimentos e mistérios marcam as estreias ao longo dos dias",
-            "url": "https://www.terra.com.br/diversao/entre-telas/netflix-lancamentos-da-semana-entre-13-e-19-de-abril-de-2026,077858a71e1235e5703cab3d1624c2e443xu9839.html",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/13/1750860447-netflix-1.jpg",
-            "publishedAt": "2026-04-13T18:48:33Z",
-            "content": "A Netflix apresenta uma nova leva de estreias que reúne produções de diferentes gêneros e formatos, entre séries, filmes e documentários. As novidades exploram histórias que vão do suspense ao drama,… [+5516 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Catracalivre.com.br"
-            },
-            "author": "EdiCase",
-            "title": "Netflix: lançamentos da semana entre 13 e 19 de abril de 2026",
-            "description": "A Netflix apresenta uma nova leva de estreias que reúne produções de diferentes gêneros e formatos, entre séries, filmes e documentários. As...\nO post Netflix: lançamentos da semana entre 13 e 19 de abril de 2026  apareceu primeiro em Catraca Livre.",
-            "url": "https://catracalivre.com.br/entretenimento/netflix-lancamentos-da-semana-entre-13-e-19-de-abril-de-2026/",
-            "urlToImage": "https://i.catracalivre.com.br/cWWYZPC5VshVkhL_A80hpqTZmHg=/1200x630/smart/filters:quality(60)/catracalivre.com.br/portaledicase.com/wp-content/uploads/2026/04/untoldjailblazers-.png",
-            "publishedAt": "2026-04-13T17:45:00Z",
-            "content": "A Netflix apresenta uma nova leva de estreias que reúne produções de diferentes gêneros e formatos, entre séries, filmes e documentários. As novidades exploram histórias que vão do suspense ao drama,… [+6570 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Com Clippers x Warriors, confira os confrontos do Play-in da NBA",
-            "description": "A temporada regular da NBA se encerrou nesse domingo (12/4) com todas as equipes da liga em quadra",
-            "url": "https://www.metropoles.com/esportes/com-clippers-x-warriors-confira-os-confrontos-do-play-in-da-nba",
-            "urlToImage": "https://i.metroimg.com/rSbCWvokrA-6785pnIk8KRi5s2-BIkL5ya9_LZwNtNE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/d4531a64-stephen-curry-1200x800.jpg",
-            "publishedAt": "2026-04-13T16:12:42Z",
-            "content": "A temporada regular da NBA encerrou-se nesse domingo (12/4) com todas as equipes da liga em quadra. Com isso, a tabela final foi definida e os confrontos do mata-mata (Playoffs) também. Vale lembrar … [+1216 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": ".",
-            "title": null,
-            "description": "Quem ama esporte não pode perder a programação desta semana do Canal UOL e do UOL Play. Com transmissões do Brasileirão Sub-20, da LBF e do NBB, serão jogos para todos os gostos!Na quarta, Palmeiras e Flamengo entram em campo pelo Brasileirão Sub-20. N",
-            "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/04/13/canal-uol-e-uol-play-tem-semana-cheia-de-jogos-de-futebol-e-basquete.ghtm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/esporte/c9/2026/04/06/elinho-pode-chegar-a-3-mil-assistencias-na-historia-do-nbb-1775484072320_v2_615x300.jpg",
-            "publishedAt": "2026-04-13T15:51:20Z",
-            "content": "Quem ama esporte não pode perder a programação desta semana do Canal UOL e do UOL Play. Com transmissões do Brasileirão Sub-20, da LBF e do NBB, serão jogos para todos os gostos!\r\nNa quarta, Palmeira… [+219 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "NBA: Milwaukee Bucks demite técnico Doc Rivers, contratado em 2024",
-            "description": "Rivers, de 64 anos, deixa o comando dos Bucks após uma temporada extremamente decepcionante; equipe ficou com 32 vitórias e 50 derrotas",
-            "url": "https://www.metropoles.com/esportes/nba-milwaukee-bucks-demite-tecnico-doc-rivers-contratado-em-2024",
-            "urlToImage": "https://i.metroimg.com/t2QKCsOWUHWKFQGkEAs-hnJ0z86ZKgjysek5H_DzUeE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2024/01/30094555/Doc-Rivers-e-Giannis.jpg",
-            "publishedAt": "2026-04-13T13:17:01Z",
-            "content": "O Milwaukee Bucks demitiu, neste domingo (12/4), Doc Rivers como técnico principal e o time não o deve trazer de volta para a próxima temporada da NBA. A informação marca o fim de uma passagem turbul… [+1759 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Veja todas as equipes classificadas para a pós-temporada da NBA",
-            "description": "A temporada regular da NBA se encerrou nesse domingo (12/4), após 15 jogos simultâneos, onde todas as equipes entraram em quadra",
-            "url": "https://www.metropoles.com/esportes/veja-todas-as-equipes-classificadas-para-a-pos-temporada-da-nba",
-            "urlToImage": "https://i.metroimg.com/esnx_czbQH3jNNVURHjz7VbzKHLIltnvKp-QWq5BEH8/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/11/05074427/Oklahoma-city-thunder-nba-shai-1200x800.jpg",
-            "publishedAt": "2026-04-13T12:41:22Z",
-            "content": "A temporada regular da NBA se encerrou nesse domingo (12/4), após 15 jogos simultâneos. Agora, estão definidas as colocações finais de todas as 30 equipes da liga e quem garantiu o seu lugar nos play… [+1032 chars]"
-        },
-        {
-            "source": {
-                "id": "globo",
-                "name": "Globo"
-            },
-            "author": null,
-            "title": "Toyota apresenta robô com IA que dribla e arremessa bolas de basquete",
-            "description": "Com 219 centímetros de altura, o CUE7 levantou-se suavemente de uma posição sentada, driblou a bola e converteu um lance livre durante o intervalo de uma partida disputada na Toyota Arena Tokyo",
-            "url": "https://valor.globo.com/empresas/noticia/2026/04/13/toyota-apresenta-rob-com-ia-que-dribla-e-arremessa-bolas-de-basquete.ghtml",
-            "urlToImage": "https://s2-valor.glbimg.com/7nS-fCnK-zswaMY9LUbaeaLP6ho=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/c/Z/Sr3GYaT2eLnG5zXNoDsA/0011abr14.jpg",
-            "publishedAt": "2026-04-13T11:18:59Z",
-            "content": "Por Nikkei Asia — Nagoia, Japão\r\n 13/04/2026 08h18 Atualizado agora"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Olhardigital.com.br"
-            },
-            "author": "Ana Luiza Figueiredo",
-            "title": "Disney+: lançamentos da semana (13 a 19 de abril)",
-            "description": "Nesta semana, o Disney+ recebe novos episódios de Star Wars: Maul – Lorde das Sombras e Demolidor: Renascido\nO post Disney+: lançamentos da semana (13 a 19 de abril) apareceu primeiro em Olhar Digital.",
-            "url": "https://olhardigital.com.br/2026/04/13/cinema-e-streaming/disney-lancamentos-da-semana-13-a-19-de-abril/",
-            "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2026/04/Disney-35.jpg",
-            "publishedAt": "2026-04-13T07:40:00Z",
-            "content": "Toda semana, o Olhar Digital destaca as novidades do Disney+ no Brasil. Entre os dias 13 e 19 de abril de 2026, o streaming traz episódios de produções bastante aguardadas.\r\nContinua após a publicida… [+4895 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Olhardigital.com.br"
-            },
-            "author": "Pedro Spadoni",
-            "title": "Netflix: lançamentos da semana (13 a 19 de abril)",
-            "description": "Nesta semana, a Netflix lança a segunda temporada de \"Treta\" e uma minissérie documental sobre Ronaldinho Gaúcho; confira a lista de estreias\nO post Netflix: lançamentos da semana (13 a 19 de abril) apareceu primeiro em Olhar Digital.",
-            "url": "https://olhardigital.com.br/2026/04/13/cinema-e-streaming/netflix-lancamentos-da-semana-13-a-19-de-abril/",
-            "urlToImage": "https://img.odcdn.com.br/wp-content/uploads/2026/04/Destaque-Lancamentos-da-semana-Netflix-13-a-19-de-abril-de-2026.jpg",
-            "publishedAt": "2026-04-13T07:04:00Z",
-            "content": "O Olhar Digital traz os principais lançamentos da Netflix semanalmente. Nesta semana, você confere as produções que chegam ao catálogo do streaming entre 13 e 19 de abril de 2026.\r\nContinua após a pu… [+9868 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rollingstone.com.br"
-            },
-            "author": "Rolling Stone Brasil",
-            "title": "Khloé Kardashian proíbe sua filha de assistir 'The Kardashians'",
-            "description": "Em entrevista ao programa The Morgan Taylor Show, Khloé Kardashian revelou algumas curiosidades ...",
-            "url": "https://rollingstone.com.br/entretenimento/khloe-kardashian-proibe-sua-filha-de-assistir-the-kardashians/",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/12/419691385-gettyimages-2222513044-scaled-e1776009789486.jpg",
-            "publishedAt": "2026-04-12T16:35:48Z",
-            "content": "Em entrevista ao programa The Morgan Taylor Show, Khloé Kardashian revelou algumas curiosidades sobre a criação de sua filha True, que completa 8 anos neste domingo, 12. Khloé afirma que ainda não pe… [+1636 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metropoles.com"
-            },
-            "author": "Metrópoles",
-            "title": "Betano em Movimento transforma Brasília em palco de esporte e cultura",
-            "description": "Em comemoração aos 66 anos da capital, plataforma entrega duas quadras revitalizadas no Parque, além de promover campeonato e ação de saúde",
-            "url": "https://www.metropoles.com/conteudo-especial/betano-em-movimento-transforma-brasilia-em-palco-de-esporte-e-cultura",
-            "urlToImage": "https://i.metroimg.com/BFdeRRYx21FqBqGqLxxTsLt8Z9PltJGlniiQ5BMwlmQ/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/betano-em-movimento-transforma-brasilia-em-palco-de-esporte-e-cultura.jpg",
-            "publishedAt": "2026-04-12T14:57:38Z",
-            "content": "O Parque da Cidade Dona Sarah Kubitschek, em Brasília (DF), foi o ponto de encontro do Betano em Movimento iniciativa da plataforma de apostas que celebra a arte, o esporte e a cultura no último sába… [+5135 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Terra.com.br"
-            },
-            "author": "Estadão Conteúdo",
-            "title": "Como o Hyrox se tornou o Everest do atleta do dia a dia",
-            "description": "Evento fitness que mistura corrida e força atrai atletas amadores que buscam desafio e senso de pertencimento",
-            "url": "https://www.terra.com.br/vida-e-estilo/saude/como-o-hyrox-se-tornou-o-everest-do-atleta-do-dia-a-dia,7d76b79971b0af305b1803b04a0ce7f1pf7q6k7a.html",
-            "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-            "publishedAt": "2026-04-12T11:11:29Z",
-            "content": "A corrida fitness teve um crescimento enorme nos últimos anos. O que está impulsionando sua popularidade?\r\nQuando Jessica Thompson entrou no Hyrox Atlanta, em outubro passado, sentiu-se intimidada pe… [+7673 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Purepeople.com.br"
-            },
-            "author": "Purepeople BR",
-            "title": "Gente? Ana Paula Renault surge irreconhecível e inchada em vídeo antigo após procedimento estético; antes e depois viraliza: 'Pelo visto funcionou'",
-            "description": "Ana Paula Renault chocou a web com um vídeo antigo de procedimento estético. No conteúdo, a sister do 'BBB 26' aparece irreconhecível e inchada, brincando com as comparações que vinha recebendo",
-            "url": " https://www.purepeople.com.br/noticia/ana-paula-renault-surge-irreconhecivel-em-video-antigo-apos-procedimento-estetico-e-viraliza-com-antes-e-depois-pelo-visto-funcionou_a418729/1 ",
-            "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/12/1771013850-4882006be0a66d52-1400x823-1.jpg",
-            "publishedAt": "2026-04-12T03:06:21Z",
-            "content": "Ana Paula Renault, favorita para ser a grande campeã do 'BBB 26', faz sucesso nas redes sociais com sua beleza natural e pele impecável. Adepta de procedimentos estéticos pouco invasivos, em especial… [+2098 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Uol.com.br"
-            },
-            "author": "Nathan Raileanu",
-            "title": null,
-            "description": "O Flamengo venceu o Botafogo neste sábado (11) por 102 a 89 em partida válida pelo NBB, realizada no Ginásio Oscar Zelaya, no Rio de Janeiro.Essa foi a 16ª vitória do Flamengo no Clássico da Rivalidade do NBB em 17 jogos desde que os dois times começar",
-            "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/04/11/nbb-botafogo-x-flamengo.ghtm",
-            "urlToImage": "https://conteudo.imguol.com.br/c/esporte/fc/2026/04/11/negrete-foi-o-nome-do-ataque-flamenguista-na-vitoria-contra-o-botafogo-1775947109094_v2_615x300.jpg",
-            "publishedAt": "2026-04-11T23:24:27Z",
-            "content": "O Flamengo enfrenta o Vasco nesta terça em seu último jogo na fase de classificação do NBB. Na sexta, o time enfrenta o Boca Juniors na semifinal da BCLA.\r\nO Botafogo também irá enfrentar o cruz-malt… [+921 chars]"
         }
     ]
 }
