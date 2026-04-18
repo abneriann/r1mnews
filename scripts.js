@@ -5,32 +5,23 @@ hamburguer.addEventListener('click', () => {
     navList.classList.toggle('aberto')
 })
 
-const noticias = [
-    {
-        tag: "NBA",
-        titulo: "Cooper Flag anota 51 pontos",
-        descricao: "Com 6 rebotes e 3 assists. ELE TEM MENOS DE 20 ANOS!",
-        data: "10 de Abril de 2026"
-    },
-    {
-        tag: "NBA",
-        titulo: "Gui Santos é o melhor do mundo",
-        descricao: "O Brasileiro vem amassando a liga nos últimos tempos.",
-        data: "10 de Abril de 2026"
-    }
-]
-
-const grid = document.getElementById('noticias-grid')
-
-noticias.forEach(noticia => {
-    grid.innerHTML += `
-        <article class="noticia-card">
+fetch('./noticias.json')
+    .then(resposta => resposta.json())
+    .then(dados => {
+        const grid = document.getElementById('noticias-grid')
+        
+        dados.articles.slice(0, 12).forEach(noticia => {
+           grid.innerHTML += `
+    <article class="noticia-card">
+        <a href="${noticia.url}" target="_blank" class="noticia-link">
             <div class="noticia-conteudo">
-                <span class="noticia-tag">${noticia.tag}</span>
-                <h3 class="titulo-noticia">${noticia.titulo}</h3>
-                <p class="subtitulo-noticia">${noticia.descricao}</p>
-                <span class="noticia-data">${noticia.data}</span>
+                <span class="noticia-tag">NBA/NBB</span>
+                <h3 class="titulo-noticia">${noticia.title}</h3>
+                <p class="subtitulo-noticia">${noticia.description}</p>
+                <span class="noticia-data">${new Date(noticia.publishedAt).toLocaleDateString('pt-BR')}</span>
             </div>
-        </article>
-    `
-})
+        </a>
+    </article>
+            `
+        })
+    })

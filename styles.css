@@ -320,3 +320,14 @@ html, body {
     }
 
 }
+
+.noticia-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.noticia-link:hover .titulo-noticia {
+    color: #000000;
+    text-decoration: underline;
+}
