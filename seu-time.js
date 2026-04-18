@@ -5,7 +5,7 @@ const titulo = document.getElementById('titulo-times')
 titulo.innerHTML = `🏀 ${timeNBA} & ${timeNBB}`
 
 const API_KEY = "0687886634164f7ab741ad31890fbbb6"
-const url = `https://newsapi.org/v2/everything?q=${timeNBA} OR ${timeNBB}&language=pt&sortBy=publishedAt&apiKey=${API_KEY}`
+const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(timeNBA)} OR "${encodeURIComponent(timeNBB)} basquete"&sortBy=publishedAt&apiKey=${API_KEY}`
 
 fetch(url)
     .then(resposta => resposta.json())
@@ -16,6 +16,7 @@ fetch(url)
             grid.innerHTML = '<p>Nenhuma notícia encontrada para seus times.</p>'
             return
         }
+            
 
         dados.articles.slice(0, 21).forEach(noticia => {
             grid.innerHTML += `
