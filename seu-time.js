@@ -9,14 +9,16 @@ fetch('./noticias.json')
     .then(dados => {
         const grid = document.getElementById('noticias-time')
 
-        const filtradas = dados.articles.filter(noticia => 
-            noticia.title && 
-            noticia.title !== '[Removed]' &&
-            (noticia.title.includes(timeNBA) || 
-             noticia.title.includes(timeNBB) ||
-             noticia.description?.includes(timeNBA) ||
-             noticia.description?.includes(timeNBB))
-        )
+const filtradas = dados.articles.filter(noticia => 
+    noticia.title && 
+    noticia.title !== '[Removed]' &&
+    (noticia.title.includes(timeNBA) || 
+     noticia.title.includes(timeNBB) ||
+     noticia.description?.includes(timeNBA) ||
+     noticia.description?.includes(timeNBB) ||
+     noticia.title.includes(timeNBA.split(' ').pop()) ||
+     noticia.title.includes(timeNBB.split(' ').pop()))
+)
 
         if (filtradas.length === 0) {
             grid.innerHTML = '<p>Nenhuma notícia encontrada para seus times.</p>'
