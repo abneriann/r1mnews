@@ -5,32 +5,31 @@ hamburguer.addEventListener('click', () => {
     navList.classList.toggle('aberto')
 })
 
-const API_KEY = "0687886634164f7ab741ad31890fbbb6"
-
 fetch('./noticias.json')
     .then(resposta => {
         if (!resposta.ok) throw new Error('JSON não encontrado')
         return resposta.json()
     })
     .then(dados => exibirNoticias(dados.articles))
-    .catch(() => {
-        // se não achar o JSON, busca direto da API
-        fetch(`https://newsapi.org/v2/everything?q=basquete OR NBA OR NBB&language=pt&sortBy=publishedAt&apiKey=${API_KEY}`)
-            .then(r => r.json())
-            .then(dados => exibirNoticias(dados.articles))
+    .catch(erro => {
+        console.error('Não foi possível carregar as notícias:', erro)
+        const grid = document.getElementById('noticias-grid')
+        grid.innerHTML = '<p>As notícias estão temporariamente indisponíveis.</p>'
     })
 
-function exibirNoticias(articles) {
+function exibirNoticias(articles = []) {
     const grid = document.getElementById('noticias-grid')
+
     articles.slice(0, 12).forEach(noticia => {
         if (!noticia.title || noticia.title === '[Removed]') return
+
         grid.innerHTML += `
             <article class="noticia-card">
-                <a href="${noticia.url}" target="_blank" class="noticia-link">
+                <a href="${noticia.url}" target="_blank" rel="noopener noreferrer" class="noticia-link">
                     <div class="noticia-conteudo">
                         <span class="noticia-tag">NBA/NBB</span>
                         <h3 class="titulo-noticia">${noticia.title}</h3>
-                        <p class="subtitulo-noticia">${noticia.description}</p>
+                        <p class="subtitulo-noticia">${noticia.description ?? ''}</p>
                         <span class="noticia-data">${new Date(noticia.publishedAt).toLocaleDateString('pt-BR')}</span>
                     </div>
                 </a>
@@ -38,6 +37,7 @@ function exibirNoticias(articles) {
         `
     })
 }
+
 let timeNBASelecionado = false
 
 document.querySelectorAll('.lista-times li').forEach(li => {
