@@ -1,15 +1,30 @@
-import requests
 import json
+import os
 
-API_KEY = "0687886634164f7ab741ad31890fbbb6"
+import requests
 
-url = f"https://newsapi.org/v2/everything?q=basquete OR NBA OR NBB&sortBy=publishedAt&pageSize=100&apiKey={API_KEY}"
+API_KEY = os.getenv("NEWS_API_KEY")
 
-artigos= requests.get(url).json().get('articles', [])
+if not API_KEY:
+    raise RuntimeError(
+        "Defina a variável de ambiente NEWS_API_KEY antes de atualizar as notícias."
+    )
 
-dados = {'articles': artigos}
+url = (
+    "https://newsapi.org/v2/everything"
+    "?q=basquete OR NBA OR NBB"
+    "&sortBy=publishedAt"
+    "&pageSize=100"
+    f"&apiKey={API_KEY}"
+)
+
+resposta = requests.get(url, timeout=30)
+resposta.raise_for_status()
+
+artigos = resposta.json().get("articles", [])
+dados = {"articles": artigos}
 
 with open("noticias.json", "w", encoding="utf-8") as arquivo:
     json.dump(dados, arquivo, ensure_ascii=False, indent=4)
 
-print("Notícias salvas com sucesso!")
+print("Notícias atualizadas com sucesso!")
